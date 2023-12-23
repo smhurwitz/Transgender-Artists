@@ -1,53 +1,58 @@
-import spotify_interface
-import util
+import artist
 import RYM_interface
+import spotify_interface
 
-""" Takes a set of RYM and/or Spotify URLs and returns dense info. When possible, use RYM URLs. """
-def get_artist_infos(rym, write_list=False, artist_urls=["https://rateyourmusic.com/artist/my-chemical-romance"]):
+
+""" Takes a set of RYM and/or Spotify Profile URLs and returns dense info. When possible, use RYM URLs. """
+def infos_from_urls(urls_txt):
+    """ Reads a list of URLS from a file into an array."""
+    file = open(urls_txt, "r")
+    urls = file.read().split("\n")
+    urls_new = []
+    if '' in urls: urls.remove('')
+    for url in urls: 
+        if not url[0] == "#": urls_new.append(url.split("#")[0])
+    file.close()
+
+    file = open('output.txt', 'w')
+    rym = RYM_interface.RYM()
     spotify = spotify_interface.Spotify()
-    header = "name" + '\t' + "number spotify followers" + '\t' + "total RYM reviews" + '\t' + "mean RYM rating" + '\t' \
-             + "max RYM album/EP rating" + '\t' + 'genres' + '\t' + "RYM url" + '\t' + "Spotify url"
-    print(header)
-    if write_list:
-        file = open('output.txt', 'w')
-        file.write(header + '\n')
 
-    for artist_url in artist_urls:
-        if 'rateyourmusic' in artist_url:
-            artist_info = rym.get_RYM_artist_info(artist_url)
-            artist_name = artist_info['name']
-            total_ratings = artist_info['number of ratings']
-            mean_rating = artist_info['mean rating']
-            if not mean_rating == None: mean_rating = round(mean_rating, 2)
-            max_rating = artist_info['max rating']
-            work_titles = rym.get_work_titles(artist_info)
-            genres = util.array_to_string(artist_info['genres'])
-
-            artist_id = spotify.get_artist_id_from_name(artist_name, work_titles)
-            num_spotify_followers = spotify.get_spotify_followers(artist_id)
-            spotify_artist_url = str(spotify.get_spotify_url(artist_id))
-            RYM_artist_url = artist_url
-        elif 'spotify' in artist_url:
-            artist_id = spotify.get_artist_id_from_url(artist_url)
-            artist_name = spotify.get_artist_name(artist_id)
-            num_spotify_followers = spotify.get_spotify_followers(artist_id)
-            genres = util.array_to_string(spotify.get_artist_genres(artist_id))
-            spotify_artist_url = str(spotify.get_spotify_url(artist_id))
-            total_ratings = 0; mean_rating = 0; max_rating = 0; RYM_artist_url = "";
-
-        info = artist_name + '\t' + str(num_spotify_followers) + '\t' + str(total_ratings) + '\t' + str(
-            mean_rating) + '\t' + str(max_rating) + '\t' + genres + '\t' + RYM_artist_url + '\t' + spotify_artist_url
+    i=0
+    for url in urls:
+        header, info = artist.Artist(url, rym, spotify).horizontal_info()
+        if (i == 0): 
+            print(header)
+            file.write(header + '\n')
         print(info)
-        if write_list: file.write(info + '\n')
-    if write_list: file.close()
+        file.write(info + '\n')
+        i += 1
 
-rym = RYM_interface.RYM()
+    rym.exit_browser()
 
-# rym.get_artists_from_list(True, util.read_urls("rym_artists_lists.txt")) #print list of all artists to .txt file
-get_artist_infos(rym, True, util.read_urls("artist_urls_from_custom.txt") + util.read_urls("artist_urls_from_lists.txt")) #final output
+def urls_from_lists(lists_txt):
+    file = open(lists_txt, "r")
+    urls = file.read().split("\n")
+    urls_new = []
+    if '' in urls: urls.remove('')
+    for url in urls: 
+        if not url == '' and not url[0] == "#": urls_new.append(url.split("#")[0])
+    urls = urls_new
+    file.close()
 
-# rym.print_artist_info(rym.get_RYM_artist_info("https://rateyourmusic.com/artist/莉犬")) #final output
-# spotify = spotify_interface.Spotify()
-# print(util.array_to_string(spotify.get_artist_genres(spotify.get_artist_id_from_name("My Chemical Romance", ["The Black Parade"]))))
+    file = open('artist_urls.txt', 'w')
+    rym = RYM_interface.RYM()
+    spotify = spotify_interface.Spotify()
 
-rym.exit_browser()
+    artist_urls = []
+    for url in urls:
+        for artist_url in [url] if not 'https://rateyourmusic.com/list/' in url else rym.artists_from_lists([url]):
+            if not artist_url in artist_urls: artist_urls.append(artist_url)
+    artist_urls.sort()
+    for artist_url in artist_urls: file.write(artist_url + '\n')
+        
+    file.close()
+    rym.exit_browser()
+
+# urls_from_lists('artist_lists.txt') #run first
+infos_from_urls('artist_urls.txt') #run second

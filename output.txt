@@ -1,0 +1,643 @@
+name	genres	# Spotify followers	# RYM followers	mean RYM rating	current location	RYM url	Spotify url
+Cvntess		120	0	0		None	https://open.spotify.com/artist/0dFSRKsQ4GPqJPTWbrcAA4?si=7OkpaEMFSCO6gIaZ6Gyrlg
+Leira The Tranarchist		185	0	0		None	https://open.spotify.com/artist/2pvWEDgUbvpSlHAL5AMXAR?si=Dwlz1nMUSxe9klXiWliAqQ
+oldphone		213	0	0		None	https://open.spotify.com/artist/4TWPAmULmnzQJY92c7JL2S?si=EVuWTi5kTx-RYXVjuVbV3Q
+Yona Melon		267	0	0		None	https://open.spotify.com/artist/6nRWbqM0HdNY3tReKpA7xa?si=kB29o5G8RgGwAKtlMFzHmg
+Jennifer Reiser		54	0	0		None	https://open.spotify.com/artist/7lOmkhtJtWM9zfS6GqFkCK?si=NA9zYlIlRrSLvMogOwmhtQ
+Faded Home		212	0	0		None	https://open.spotify.com/artist/7vogitBAVOATfU6wMmgpoF?si=u_wPK1HcRVOInwEO_woR8g
+08 Identities	Ambient	10	6	4.08	Amiens, Hauts-de-France, France	https://rateyourmusic.com/artist/08-identities	https://open.spotify.com/artist/0OAXkxJEn7jmWcKg1sPh9c
+100 gecs	Hyperpop, Bubblegum Bass, Pop Rap, Alternative Rock, Power Pop, Industrial Hip Hop	581017	27757	3.29	Los Angeles, CA, United States	https://rateyourmusic.com/artist/100-gecs	https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3
+4th Curtis	Indie Rock, Indie Pop	1505	31	3.45		https://rateyourmusic.com/artist/4th-curtis	https://open.spotify.com/artist/4j6cIg3cUwqmA8wC8cijM9
+909 Worldwide	Happy Hardcore	None	157	3.38		https://rateyourmusic.com/artist/909-worldwide	None
+99jakes	Happy Hardcore, Hardcore [EDM], Gabber, Hyperpop, Mashcore	4119	408	3.5	Santa Fe, NM, United States	https://rateyourmusic.com/artist/99jakes	https://open.spotify.com/artist/05EZHLl1aPk4XibP2BgIrP
+*soft vowel sounds*	Pop, Rock	None	0	0.0	Oakland, CA, United States	https://rateyourmusic.com/artist/_soft-vowel-sounds	None
+A Constant Knowledge of Death	Post-Hardcore, Progressive Metal, Atmospheric Sludge Metal	693	88	3.44		https://rateyourmusic.com/artist/a-constant-knowledge-of-death	https://open.spotify.com/artist/1wPNNuO8XmHMxCvjl3SKPT
+A Few Hours Later	Slacker Rock, Emo, Neo-Psychedelia, Shoegaze	20	26	3.5		https://rateyourmusic.com/artist/a-few-hours-later	https://open.spotify.com/artist/1ckOSUGP1vmApWrzafkybn
+A Stick and a Stone	Neofolk	606	17	3.33		https://rateyourmusic.com/artist/a_stick_and_a_stone	https://open.spotify.com/artist/1HnICIhLMb5i1qL7OUpshY
+Abernathy	Singer-Songwriter, Indie Folk	721	69	3.39	NJ, United States	https://rateyourmusic.com/artist/abernathy	https://open.spotify.com/artist/5MKSXHrcpK24tQI9WxT7aK
+Abscynthe	Black Metal	119	6	2.42	Herndon, VA, United States	https://rateyourmusic.com/artist/abscynthe	https://open.spotify.com/artist/1RsSqNDri3ED733SMzXHI6
+ABSRDST	Electropop, Future Bass, Alternative R&B, Digital Fusion, Hyperpop, Chiptune	21184	283	3.21	New York, NY, United States	https://rateyourmusic.com/artist/absrdst	https://open.spotify.com/artist/0F4rneT54YD3eaWYXUXvFM
+Absu	Black Metal, Death Metal, Black Metal, Thrash Metal	41453	3271	3.49		https://rateyourmusic.com/artist/absu	https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP
+Acrylate	Experimental	14	8	3.74		https://rateyourmusic.com/artist/acrylate-1	https://open.spotify.com/artist/0Ke0CKZtBKlaqk12AI9ZyE
+Ada Rook	Electro-Industrial, Post-Industrial, Indietronica, Video Game Music, Electropop, Aggrotech	11934	2597	3.5	Toronto, ON, Canada	https://rateyourmusic.com/artist/ada-rook	https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY
+Adderall	Hardcore Punk	286	11	3.17		https://rateyourmusic.com/artist/adderall	https://open.spotify.com/artist/2Eqm5rFhkug6t0UoQVK6jA
+Addison Grace	Indie Pop	171039	28	3.31	UT, United States	https://rateyourmusic.com/artist/addison-grace	https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap
+Adrianne	Indie Folk, Depressive Black Metal	None	35	3.48	Chicago, IL, United States	https://rateyourmusic.com/artist/adrianne-1	None
+Adult Mom	Bedroom Pop, Singer-Songwriter, Indie Pop, Slacker Rock, Twee Pop	53686	442	3.06	Purchase, NY, United States	https://rateyourmusic.com/artist/adult-mom	https://open.spotify.com/artist/7tuwjSE2q4zeBdNObeO7LB
+afterlife dating	Post-Rock, Shoegaze, Emo, Screamo, Slacker Rock, Noise Rock	273	236	3.43		https://rateyourmusic.com/artist/afterlife-dating	https://open.spotify.com/artist/7qIH8injO779nzrYn9wQaH
+Against Me!	Punk Rock, Folk Punk, Alternative Rock, Power Pop, Pop Punk, Acoustic Rock	285546	6153	3.45		https://rateyourmusic.com/artist/against-me	https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl
+Agatha	Riot Grrrl, Queercore	847	21	3.57		https://rateyourmusic.com/artist/agatha_f2	https://open.spotify.com/artist/2C2kOwLa4Zv5Y7MnKT3eJo
+Ah-Mer-Ah-Su	Electropop	8766	40	3.18	Los Angeles, CA, United States	https://rateyourmusic.com/artist/ah-mer-ah-su	https://open.spotify.com/artist/6uCILdubNJBlEvfxOCDluy
+Aiza Seguerra	OPM	571550	5	2.9		https://rateyourmusic.com/artist/aiza-seguerra	https://open.spotify.com/artist/0GnuCXvnvVtX5DShryuyp9
+Aja	Hip House	36060	35	2.72	Brooklyn, NY, United States	https://rateyourmusic.com/artist/aja-1	https://open.spotify.com/artist/0fWt4FY87imqsBJpt2QVL0
+Aki McCullough		None	4	0.0	Shrewsbury, MA, United States	https://rateyourmusic.com/artist/aki-mccullough	None
+Alena Phoenix	Cloud Rap, Experimental Hip Hop, Experimental, Dark Ambient, Ambient	48	66	3.09		https://rateyourmusic.com/artist/alena-phoenix	https://open.spotify.com/artist/2RHN8dR5PMzDUi2rxhX4Jh
+Alex Mauer	Chiptune, FM Synthesis, Video Game Music	None	209	3.24	Levittown, PA, United States	https://rateyourmusic.com/artist/alex_mauer	None
+Alexander James Adams	Geek Folk, Neo-pagan	1845	5	1.5	Portland, OR, United States	https://rateyourmusic.com/artist/alexander-james-adams	https://open.spotify.com/artist/7oK6GOW4RA99mAPpOAwCBb
+Alice Gas	Happy Hardcore, Hyperpop, Digicore, Bubblegum Bass, UK Hardcore, Makina	51019	1489	3.39	Denton, TX, United States	https://rateyourmusic.com/artist/alice-gas	https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR
+Alice Goes to Hell	Happy Hardcore	None	13	3.43		https://rateyourmusic.com/artist/alice-goes-to-hell	None
+Alice Low	Glam Rock, Art Rock	536	49	3.62	Cardiff, Cardiff, United Kingdom	https://rateyourmusic.com/artist/alice-low	https://open.spotify.com/artist/3mSS5RJRziMAKk5aeSyPSI
+All the Pretty Horses		337	9	3.6		https://rateyourmusic.com/artist/all_the_pretty_horses	https://open.spotify.com/artist/2SqxQJtFRqjVa7HSGFEjE0
+altostrati	Ambient, Electronic	14	5	3.57		https://rateyourmusic.com/artist/altostrati	https://open.spotify.com/artist/4PignKJw1olOySc9OV7w0f
+Alyssa Kai	Traditional Folk Music	None	7	3.08	Montague, MA, United States	https://rateyourmusic.com/artist/alyssa_kai	None
+American Girls	Experimental	None	5	1.91	Raleigh, NC, United States	https://rateyourmusic.com/artist/american-girls	None
+American Grandma	Slowcore	629	16	3.56	Denver, CO, United States	https://rateyourmusic.com/artist/american-grandma	https://open.spotify.com/artist/4XTcP25C5ZUWpwf0NYGJnn
+Analemma	Experimental	None	44	3.14		https://rateyourmusic.com/artist/analemma	None
+Anarchy 99	Electro-Industrial	4144	326	3.16		https://rateyourmusic.com/artist/anarchy-99	https://open.spotify.com/artist/4kEWQTJj8q3x7NfNcyLFDa
+andromaeda	Bedroom Pop	None	31	3.52	Auckland, New Zealand	https://rateyourmusic.com/artist/andromaeda	None
+Angel Electronics	Pop Punk, Power Pop	1431	406	3.32		https://rateyourmusic.com/artist/angel-electronics	https://open.spotify.com/artist/5pWpg0saMHolhv0hsOooaq
+Angel-Ho	Deconstructed Club, Epic Collage, Hip House, Ballroom, Dance-Pop, Experimental Hip Hop	2165	321	2.84		https://rateyourmusic.com/artist/angel-ho	https://open.spotify.com/artist/39TepozBC9n9EZrCL6jYpS
+Angel Mange	Electronic	None	3	2.0	Atlanta, GA, United States	https://rateyourmusic.com/artist/angel-mange	None
+Angel Marcloid	Noise	None	46	3.6	Chicago, IL, United States	https://rateyourmusic.com/artist/angel-marcloid	None
+Angel Maxine	Pop	1089	13	3.95	Ghana	https://rateyourmusic.com/artist/angel-maxine	https://open.spotify.com/artist/1BqJRTcbSEMJRm2eD4PRoU
+Angelboyz Choir	Experimental	None	4	0.0	South Africa	https://rateyourmusic.com/artist/angelboyz-choir	None
+angelwinter	Trap, Cloud Rap, Southern Hip Hop, Digicore, Emo Rap, Pop Rap	702	158	2.88	Flower Mound, TX, United States	https://rateyourmusic.com/artist/angelwinter	https://open.spotify.com/artist/5BMEsJkF3ydybarxMW4BrN
+Animal Prufrock		None	3	2.5	San Francisco, CA, United States	https://rateyourmusic.com/artist/animal-prufrock	None
+Anita Velveeta	Indie Rock, Emo	3627	64	3.46	Minneapolis, MN, United States	https://rateyourmusic.com/artist/anita-velveeta	https://open.spotify.com/artist/7ysa24HVkhXpjm5NpwnziR
+Anjimile	Singer-Songwriter, Indie Folk, Art Pop, Chamber Folk, Avant-Folk, Chamber Pop	15346	295	3.22	Durham, NC, United States	https://rateyourmusic.com/artist/anjimile	https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp
+ANOHNI	Art Pop, Electropop, Singer-Songwriter, Soul, Chamber Pop	152331	5812	3.4	New York, NY, United States	https://rateyourmusic.com/artist/anohni	https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo
+ANOHNI and the Johnsons	Chamber Pop, Singer-Songwriter, Soul, Neofolk, Baroque Pop, Art Pop	None	11249	3.59		https://rateyourmusic.com/artist/anohni-and-the-johnsons	None
+Anomaly	Hardcore Punk	None	14	2.97		https://rateyourmusic.com/artist/anomaly_f3	None
+anxioushum	Emo	416	5	3.31	NY, United States	https://rateyourmusic.com/artist/anxioushum	https://open.spotify.com/artist/63Di9MmZWywRMxsDjBSy5D
+Aquatic Airlines	Vaporwave	None	2	2.81		https://rateyourmusic.com/artist/aquatic-airlines	None
+Arca	Deconstructed Club, Glitch Hop, Wonky, Latin Electronic, Art Pop, Glitch Pop	495200	17676	3.45	Barcelona, Catalunya, Spain	https://rateyourmusic.com/artist/arca-1	https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj
+Argiflex	Hardvapour	162	31	3.09	Fargo, ND, United States	https://rateyourmusic.com/artist/argiflex	https://open.spotify.com/artist/5lJxP7myaUsCbt0NEv4eJK
+aryanna		None	22	0.0	Los Angeles, CA, United States	https://rateyourmusic.com/artist/aryanna	None
+Ashby and The Oceanns	Folk Punk, Anti-Folk, Queercore	None	23	3.41	Chicago, IL, United States	https://rateyourmusic.com/artist/ashby-and-the-oceanns	None
+Ashes Jessen	Ambient	26	12	3.94		https://rateyourmusic.com/artist/ashes-jessen-1	https://open.spotify.com/artist/1dyhPJvO0EX870eRWrTdnw
+Ashley Ninelives	Noise Pop, Slacker Rock, Glitch Pop, Indietronica	1681	358	3.35		https://rateyourmusic.com/artist/ashley-ninelives	https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE
+Avery Tucker		None	6	3.08	New York, NY, United States	https://rateyourmusic.com/artist/avery-tucker	None
+aya	Deconstructed Club, UK Bass, Glitch Hop, Electronic	8044	680	3.18	London, Greater London, United Kingdom	https://rateyourmusic.com/artist/aya-6	https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH
+Aye Nako	Indie Rock, Queercore, Pop Punk	8015	232	3.22		https://rateyourmusic.com/artist/aye-nako	https://open.spotify.com/artist/73SIbPT9u0sHTR2SrwTXZE
+ayla_unh01y	Drill, Experimental Hip Hop	2	31	3.44	Vancouver, BC, Canada	https://rateyourmusic.com/artist/ayla_unh01y	https://open.spotify.com/artist/6MiL3nl2ZAPcolEfVQBmoN
+Babeo Baggins		None	26	3.49		https://rateyourmusic.com/artist/babeo-baggins	None
+Baby Bugs	Indie Folk, Folk Pop	97306	21	2.9	United States	https://rateyourmusic.com/artist/baby-bugs	https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5
+Backxwash	Horrorcore, Industrial Hip Hop, Trap, Industrial Metal, Experimental Hip Hop, Hardcore Hip Hop	34929	7236	3.52	Montréal, QC, Canada	https://rateyourmusic.com/artist/backxwash	https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg
+Bałtyk	Singer-Songwriter, Indie Folk, Slacker Rock, Ambient Pop, Bedroom Pop, Slowcore	1244	419	3.39	Warszawa, mazowieckie, Poland	https://rateyourmusic.com/artist/baltyk	https://open.spotify.com/artist/6DvaD5SDKpAtta09armsv9
+Barf Troop	Hip Hop	None	13	2.38		https://rateyourmusic.com/artist/barf-troop	None
+Bedbug	Bedroom Pop, Slacker Rock, Midwest Emo, Indie Pop	3672	387	3.33	Boston, MA, United States	https://rateyourmusic.com/artist/bedbug-1	https://open.spotify.com/artist/09Sh0bFteXDeMFMLdjldlu
+Beige Monk	Neo-Psychedelia, Indietronica, Freak Folk, Psychedelic Folk, Folktronica, Art Pop	None	189	3.46	Philadelphia, PA, United States	https://rateyourmusic.com/artist/beige-monk	None
+Benny James	Singer-Songwriter	60	1	0.0	New York, NY, United States	https://rateyourmusic.com/artist/benny-james-1	https://open.spotify.com/artist/4adH0U5MbrNsFVKYjNdprs
+Beverly Glenn-Copeland	Singer-Songwriter, New Age, Contemporary Folk, Ambient Pop, Progressive Folk, Ambient	37133	1944	3.65	Sackville, NB, Canada	https://rateyourmusic.com/artist/beverly-glenn-copeland	https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe
+Billy Tipton	Jazz, Swing	None	6	3.39		https://rateyourmusic.com/artist/billy-tipton	None
+Billy Bottle	Progressive Rock	None	23	3.56		https://rateyourmusic.com/artist/billy_bottle	None
+Birds Fear Death	Noise Pop, Shitgaze, Slacker Rock, Emo, Noise Rock, Garage Punk	7448	517	3.33	Dallas, TX, United States	https://rateyourmusic.com/artist/birds-fear-death	https://open.spotify.com/artist/65uuUPZ3mkqQ6gi0zfefHb
+Bitesize	Alternative Rock	52	6	3.45		https://rateyourmusic.com/artist/bitesize	https://open.spotify.com/artist/4xM7BIbXtEj058PxZMvhHm
+Black Dresses	Electro-Industrial, Industrial Rock, Post-Industrial, Electropop, Industrial Hip Hop, Indietronica	74000	8931	3.44		https://rateyourmusic.com/artist/black-dresses	https://open.spotify.com/artist/7FFwJQ58hAy7PMo4lUBW96
+blackwinterwells	Cloud Rap, Pop Rap, Emo Rap, Trap, Digicore, Art Pop	41281	1182	3.34	Hamilton, ON, Canada	https://rateyourmusic.com/artist/blackwinterwells-1	https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u
+Bog Witch	Noise Rock	18	8	3.4	Portland, OR, United States	https://rateyourmusic.com/artist/bog-witch	https://open.spotify.com/artist/5wYxBeX6HkRciSVwmn9bdr
+Boot Bottom	Sludge Metal, Queercore	None	5	4.37		https://rateyourmusic.com/artist/boot-bottom	None
+Box Cutter	Post-Hardcore	None	3	4.0	Pensacola, FL, United States	https://rateyourmusic.com/artist/box-cutter-1	None
+BrainΦΠΦTemple	Berlin School	1	22	3.49	Nashville, TN, United States	https://rateyourmusic.com/artist/brainφπφtemple	https://open.spotify.com/artist/2syc0NDWa5beywC6zm0DWT
+Brennen Rigley	Free Improvisation, Sound Collage, Experimental	8	35	3.23	Northville, MI, United States	https://rateyourmusic.com/artist/brennen-rigley	https://open.spotify.com/artist/3dUzuS5JuGAgn6DsNY3rZZ
+bugwong	Experimental	None	3	0.0	Pensacola, FL, United States	https://rateyourmusic.com/artist/bugwong	None
+Bullpup	New England Emo	827	1	3.0	Lowell, MA, United States	https://rateyourmusic.com/artist/bullpup	https://open.spotify.com/artist/6wLGElVZnPvlBkqvIQ1Wxo
+bummerJam	Emo	None	2	3.5	CA, United States	https://rateyourmusic.com/artist/bummerjam	None
+Bureau Hotel	Experimental, Glitch	None	7	2.67		https://rateyourmusic.com/artist/bureau-hotel	None
+Burning Pantheon	Black Metal	None	1	0.0	Bath, Somerset, United Kingdom	https://rateyourmusic.com/artist/burning-pantheon	None
+Bury Them and Keep Quiet	Black Metal	None	26	3.32	Brooklyn, NY, United States	https://rateyourmusic.com/artist/bury-them-and-keep-quiet	None
+Butch Baby	Alternative Rock, Queercore	4316	29	3.67		https://rateyourmusic.com/artist/butch-baby	https://open.spotify.com/artist/3jzfCiOKgr1xHyUYLqw3lr
+Butterfly Bandage	Pop	37	6	1.77	Philadelphia, PA, United States	https://rateyourmusic.com/artist/butterfly_bandage	https://open.spotify.com/artist/3jpMrvRfHW3thOBw24zNYL
+Cab Ride Home	Metal	None	3	2.5		https://rateyourmusic.com/artist/cab-ride-home	None
+Cacola	Mashup, Breakbeat, Drum and Bass, Pop, Synthpop, Progressive Electronic	2596	1823	3.39	Raceland, LA, United States	https://rateyourmusic.com/artist/cacola	https://open.spotify.com/artist/2ahObYqtwtfkU2jZ8wdMo9
+Caela		None	3	3.0	United Kingdom	https://rateyourmusic.com/artist/caela	None
+Cait Brennan	Power Pop	189	8	2.79		https://rateyourmusic.com/artist/cait-brennan	https://open.spotify.com/artist/756nmZCDC2yoI9Rtk6EnkA
+Calpernia Addams		None	1	0.0	Los Angeles, CA, United States	https://rateyourmusic.com/artist/calpernia-addams	None
+Cardinality	Alternative R&B	None	2	4.0	Richmond, VA, United States	https://rateyourmusic.com/artist/cardinality	None
+casio dad	Pop Punk, Power Pop, Bitpop	2644	556	3.54	Los Angeles, CA, United States	https://rateyourmusic.com/artist/casio-dad	https://open.spotify.com/artist/0MzjcFfloc89IeOqr5EsTK
+Cats Millionaire	Indietronica, Synth Punk, Noise Pop	7206	790	3.61	Toronto, ON, Canada	https://rateyourmusic.com/artist/cats-millionaire	https://open.spotify.com/artist/5lPdhAYT6cPulaQvMgTuaE
+Cavetown	Indie Pop, Bedroom Pop, Indie Folk, Singer-Songwriter, Indie Rock, Indietronica	3924244	1229	3.08		https://rateyourmusic.com/artist/cavetown	https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8
+CENSORED dialogue	Conscious Hip Hop, Jazz Rap	897	63	3.43	Austin, TX, United States	https://rateyourmusic.com/artist/censored-dialogue	https://open.spotify.com/artist/59fuxgftCMIqC1RbbhEbIg
+chalkwife	Shoegaze, Post-Hardcore, Emo, Dream Pop, Post-Metal	80	50	3.26		https://rateyourmusic.com/artist/chalkwife	https://open.spotify.com/artist/7FGRhqPsTeSl32dWIh6K1N
+Chaz Bono		None	1	0.0		https://rateyourmusic.com/artist/chaz_bono	None
+Chelsea Monteiro	IDM, Electronic, Downtempo, Sound Collage, Ambient Dub, Ambient	27	80	3.26	San Francisco, CA, United States	https://rateyourmusic.com/artist/chelsea-monteiro	https://open.spotify.com/artist/1YYPBvUhoOtdRzkyHTxqhQ
+Cher Strauberry	Northern American Music	None	7	3.0		https://rateyourmusic.com/artist/cher-strauberry	None
+Children Eating Birds	Avant-Folk	None	33	3.01	Toronto, ON, Canada	https://rateyourmusic.com/artist/children_eating_birds	None
+Chloe Hotline	Pop Rap, Trap, Alternative R&B	576	56	3.16		https://rateyourmusic.com/artist/chloe-hotline-1	https://open.spotify.com/artist/4kikA750A0g0FapsKphdUi
+Chris Pureka	Contemporary Folk, Singer-Songwriter, Americana	16678	60	3.65	Portland, OR, United States	https://rateyourmusic.com/artist/chris-pureka	https://open.spotify.com/artist/0TcLzrilnmNFyaTgLULSg3
+Christine and the Queens	Synthpop, Alt-Pop, Art Pop, French Pop, Electropop, Nouvelle chanson française	681724	4903	3.52	Paris, Île-de-France, France	https://rateyourmusic.com/artist/christine-and-the-queens	https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT
+Ciarán Strange	Pop Rock	None	0	0.0	TX, United States	https://rateyourmusic.com/artist/ciaran-strange	None
+Cicada the Burrower	Blackgaze, Progressive Metal, Avant-Garde Metal, Chillout, Black Metal	841	160	3.23		https://rateyourmusic.com/artist/cicada_the_burrower	https://open.spotify.com/artist/1JSv8tn7rJYX28nUeHpA14
+Cidny Bullens	Singer-Songwriter, Pop Rock, Rock, Power Pop	244	75	3.24	ME, United States	https://rateyourmusic.com/artist/cidny-bullens	https://open.spotify.com/artist/2xHMuT21bCTeq0ahe3nP9q
+Cistem Failure	Folk Punk	2405	7	3.64		https://rateyourmusic.com/artist/cistem-failure	https://open.spotify.com/artist/79SSToOSUO8PhB3ouyt9ws
+Claire Michelle	Folk	151	3	3.5	Seattle, WA, United States	https://rateyourmusic.com/artist/claire-michelle	https://open.spotify.com/artist/6v0jyHWL3rRtUzsAXATSsL
+claire rousay	Sound Collage, Ambient, Field Recordings, Musique concrète, Electroacoustic, Free Improvisation	13323	1552	3.25	Los Angeles, CA, United States	https://rateyourmusic.com/artist/claire-rousay	https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq
+Clark Powell	Soundtrack, Electronic, Cinematic Classical, Video Game Music, Ambient, Western Classical Music	None	85	3.44	CA, United States	https://rateyourmusic.com/artist/clark-powell	None
+Cloaca	Queercore, Hardcore Punk	None	18	3.19	Vancouver, BC, Canada	https://rateyourmusic.com/artist/cloaca_f1	None
+Cobra Roll	Electronic	101	12	1.73		https://rateyourmusic.com/artist/cobra-roll-1	https://open.spotify.com/artist/2Lifz7c1CAmiTLdQmfdmLe
+Codex Obscura	Deathcore	385	10	3.47		https://rateyourmusic.com/artist/codex-obscura	https://open.spotify.com/artist/5K0b7EYnRFDPGMWaaRDEJh
+Connie Sgarbossa		None	5	3.5	San Diego, CA, United States	https://rateyourmusic.com/artist/connie-sgarbossa	None
+Copper	Emo, Indie Rock	486	64	3.4		https://rateyourmusic.com/artist/copper_f1	https://open.spotify.com/artist/3KMpg5Q12TJmCEdtTRRQLu
+Copyright's Worst Nightmare	Alternative Rock	None	5	3.0		https://rateyourmusic.com/artist/copyrights-worst-nightmare	None
+Coyote Grace		None	1	0.0	CA, United States	https://rateyourmusic.com/artist/coyote_grace	None
+Cretin	Grindcore	5261	335	3.38		https://rateyourmusic.com/artist/cretin	https://open.spotify.com/artist/2NH5w1zVKU0MTnxy7BpHnc
+Crime & Punishment		None	2	2.82		https://rateyourmusic.com/artist/crime-and-punishment	None
+Crossspitter	Death Metal	None	61	3.42		https://rateyourmusic.com/artist/crossspitter	None
+Crystalcorps	HexD, Cloud Rap, Experimental Hip Hop	None	50	3.53		https://rateyourmusic.com/artist/crystalcorps	None
+Curryrice	Electronic	None	7	3.0		https://rateyourmusic.com/artist/curryrice	None
+Cut Me Some Slack	Punk	30	0	0.0	CT, United States	https://rateyourmusic.com/artist/cut-me-some-slack	https://open.spotify.com/artist/2n7cunRW6k7pwJakxy8iaw
+DAMAG3	Hip Hop	14634	9	2.58	United States	https://rateyourmusic.com/artist/damag3	https://open.spotify.com/artist/0xIT8X4ltWYOTHXJ2hm6vn
+Dame Cook	Ambient, Electroacoustic, Experimental, Progressive Electronic	29	22	3.67	Mississauga, ON, Canada	https://rateyourmusic.com/artist/dame-cook	https://open.spotify.com/artist/6Ez9eth5cqcSuuApdXLuUv
+Dani Lee Pearce	Art Pop, Synthpop, Singer-Songwriter, Electronic, Progressive Pop	82	53	3.53	Portland, OR, United States	https://rateyourmusic.com/artist/dani-lee-pearce	https://open.spotify.com/artist/1HOf2F8JL0kRTdIZKhCpW5
+Dani Shay	Transpop	4089	2	3.25		https://rateyourmusic.com/artist/dani_shay	https://open.spotify.com/artist/5BPPYe9mEI2ZHkAqKqg9Ev
+D'Anjou Collective	Ambient, Shoegaze	None	19	2.83		https://rateyourmusic.com/artist/danjou-collective	None
+Datavision Ltd.	Vaporwave, Broken Transmission	None	36	2.71	Dallas, TX, United States	https://rateyourmusic.com/artist/datavision-ltd	None
+David Leo	Experimental	None	2	4.0		https://rateyourmusic.com/artist/david-leo	None
+David Craig Simpson		None	5	3.54		https://rateyourmusic.com/artist/david_craig_simpson	None
+Dazey and the Scouts	Queercore, Surf Punk, Indie Rock	163460	982	3.69		https://rateyourmusic.com/artist/dazey-and-the-scouts	https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ
+Dear Laika	Art Pop, Ambient Pop, Ambient, Noise, Singer-Songwriter, Drone	1155	414	3.48	Cold Ash, Berkshire, United Kingdom	https://rateyourmusic.com/artist/dear-laika	https://open.spotify.com/artist/5q6Y6IL2jCH7LUcL6z4X0D
+death do us apart	Midwest Emo	356	79	3.55	Luxembourg	https://rateyourmusic.com/artist/death-do-us-apart	https://open.spotify.com/artist/6LTjT8gzwzRqatvxLu1gpJ
+Decibelle	Ambient, Electronic, Drone	None	140	3.18	Edgartown, MA, United States	https://rateyourmusic.com/artist/decibelle	None
+Devi McCallion	Electropop, Indietronica, Dark Ambient, Slacker Rock, Noise, Electro-Industrial	7685	773	3.45	Toronto, ON, Canada	https://rateyourmusic.com/artist/devi-mccallion	https://open.spotify.com/artist/6i1PYODUPDYMtaK8QCGE9I
+Diners	Indie Pop, Bedroom Pop, Power Pop, Indie Surf	17191	189	3.37	Phoenix, AZ, United States	https://rateyourmusic.com/artist/diners	https://open.spotify.com/artist/5d5zCtQbxnmPLkOZAuw9lp
+Dingo	Electronic	None	4	3.02	Corvallis, OR, United States	https://rateyourmusic.com/artist/dingo-1	None
+Disemballerina	Dark Folk, Chamber Music, Chamber Folk	567	61	3.39		https://rateyourmusic.com/artist/disemballerina	https://open.spotify.com/artist/1u0USdgKqdyBNhUShyalyC
+Dispute Settlement Mechanism		None	3	4.54		https://rateyourmusic.com/artist/dispute_settlement_mechanism	None
+DJ Re:Code	Hyperpop	3716	241	3.56	New York, NY, United States	https://rateyourmusic.com/artist/dj-re_code	https://open.spotify.com/artist/04r9MV32OBMdMv1eJ9I1CP
+DJ Sprinkles	Deep House, Ambient House, Acid House	None	4981	3.79	Kawasaki, Kanagawa, Japan	https://rateyourmusic.com/artist/dj_sprinkles	None
+Doin' Fine	Experimental Hip Hop, Noise Pop, Glitch Pop, Folk Punk, Digital Hardcore, Art Pop	1121	255	3.1	Australia	https://rateyourmusic.com/artist/doin-fine	https://open.spotify.com/artist/1Tbey3NMXXBD65CG3iYQ6W
+Domesticated	Deathgrind	None	49	3.35		https://rateyourmusic.com/artist/domesticated	None
+Don't Feed the Plants	Folk Punk	None	1	0.0	FL, United States	https://rateyourmusic.com/artist/dont-feed-the-plants	None
+Doomstress	Traditional Doom Metal	593	34	3.23		https://rateyourmusic.com/artist/doomstress	https://open.spotify.com/artist/5VifNDvSP3iKschS3zLeZA
+Doomstress Alexis		None	1	0.0		https://rateyourmusic.com/artist/doomstress-alexis	None
+Dorian Electra	Hyperpop, Electropop, Bubblegum Bass, Dance-Pop, Trap [EDM], Industrial Rock	263737	7672	3.3	Los Angeles, CA, United States	https://rateyourmusic.com/artist/dorian-electra	https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u
+Downtown Eastside Girlfriend	Power Electronics	None	3	3.5	Vancouver, BC, Canada	https://rateyourmusic.com/artist/downtown-eastside-girlfriend	None
+Doxophobia	Progressive Metal, Metalcore, Post-Metal, Atmospheric Black Metal, Slam Death Metal, Brutal Death Metal	None	62	3.37	Essex, United Kingdom	https://rateyourmusic.com/artist/doxophobia	None
+Doyle Valentine	Experimental	None	2	4.0	Costa Rica	https://rateyourmusic.com/artist/doyle-valentine	None
+Dr. Massive and The Headwound Extravaganza	Electro	None	11	3.57		https://rateyourmusic.com/artist/dr-massive-and-the-headwound-extravaganza	None
+Dracula's Necrophobic Actions	Experimental, Ambient	None	43	2.94	Brattleboro, VT, United States	https://rateyourmusic.com/artist/draculas-necrophobic-actions	None
+Drainpuppet	Future Bass, Electronic, Alternative R&B, Kawaii Future Bass	3535	142	3.51	Hamilton, ON, Canada	https://rateyourmusic.com/artist/drainpuppet	https://open.spotify.com/artist/60GkTzyWHBrgEqJqw9FqAD
+Drama League	Indie Rock	None	1	3.0		https://rateyourmusic.com/artist/drama-league	None
+dreaming plushie	Hardcore [EDM]	112	29	3.51	Kraków, małopolskie, Poland	https://rateyourmusic.com/artist/dreaming-plushie	https://open.spotify.com/artist/5i0zEz7Gk8O1rHJIBh0oeL
+Dreamwell	Screamo, Post-Hardcore	5383	1334	3.49	Providence, RI, United States	https://rateyourmusic.com/artist/dreamwell	https://open.spotify.com/artist/4iW7dCnHbqN5YErzN7FghD
+Drixxo Lords	Cloud Rap, HexD, Experimental Hip Hop	1245	613	3.38		https://rateyourmusic.com/artist/drixxo-lords	https://open.spotify.com/artist/0MbxfpERpHQFrJgxXhhtF1
+Drummer LJ		31	2	4.15		https://rateyourmusic.com/artist/drummer-lj	https://open.spotify.com/artist/0UFLahniLreGkJWCgu7MFF
+Du Blonde	Indie Rock, Singer-Songwriter, Chamber Pop, Art Pop, Folk Pop, Chamber Folk	13054	297	3.21		https://rateyourmusic.com/artist/du-blonde	https://open.spotify.com/artist/46MOKAqmDsUILZl3iXyPmw
+Dump Him	Queercore, Indie Rock, Pop Punk	5802	93	3.22	Boston, MA, United States	https://rateyourmusic.com/artist/dump-him	https://open.spotify.com/artist/0nRfJc54k6c874vvk6TVWq
+Dyke Drama	Queercore, Pop Punk, Emo	4464	132	3.39	Olympia, WA, United States	https://rateyourmusic.com/artist/dyke-drama	https://open.spotify.com/artist/2mEd7XiiEr2Ym4JMeWE7t1
+E_DEATH	Witch House, Cloud Rap, Electronic	2107	80	3.17	Tallahassee, FL, United States	https://rateyourmusic.com/artist/e_death	https://open.spotify.com/artist/2wSwy8bHoCzFngrIrDCFDd
+E+E	Epic Collage, Mashup, Contemporary R&B, Ambient, Latin Electronic, Digital Cumbia	None	1999	3.67	Woodland, CA, United States	https://rateyourmusic.com/artist/e_e-1	None
+Earthen Altar	Atmospheric Black Metal	None	7	0.0		https://rateyourmusic.com/artist/earthen-altar	None
+Edge Slayer	Experimental, Noise Pop	391	4	2.56	New Orleans, LA, United States	https://rateyourmusic.com/artist/edge-slayer	https://open.spotify.com/artist/3QuKQYJTP0rL7uiX9a1ev6
+Ekko Astral	Punk Rock	753	15	3.72		https://rateyourmusic.com/artist/ekko-astral	https://open.spotify.com/artist/5YaWzI756w0pw1DkJkun5u
+Eli Conley and Hip for Squares		None	2	0.0		https://rateyourmusic.com/artist/eli_conley_and_hip_for_squares	None
+Elizabeth Lazuli	Experimental, Free Improvisation, Noise	None	6	2.0	Willowick, OH, United States	https://rateyourmusic.com/artist/elizabeth-lazuli	None
+Elizabeth Sunner	Experimental	None	3	3.12	Meridian, ID, United States	https://rateyourmusic.com/artist/elizabeth-sunner	None
+Elizabeth Veldon	Noise, Free Improvisation	None	13	2.39	Glasgow, Glasgow City, United Kingdom	https://rateyourmusic.com/artist/elizabeth_veldon	None
+Elliot Page		None	25	2.79		https://rateyourmusic.com/artist/elliot-page	None
+ElyOtto	Hyperpop, Digicore, Pop Rap	129044	191	2.23	Calgary, AB, Canada	https://rateyourmusic.com/artist/elyotto	https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW
+Elysia Crampton	Epic Collage, Latin Electronic, Deconstructed Club, Ambient, Mashup, Digital Cumbia	14997	3072	3.44	Woodland, CA, United States	https://rateyourmusic.com/artist/elysia-crampton	https://open.spotify.com/artist/75v4Rn3SqXn6dmq2PFrRgN
+Emily June	Electronic	14	1	4.0	Sydney, NSW, Australia	https://rateyourmusic.com/artist/emily-june	https://open.spotify.com/artist/1NQBEKDTgQtNymhAuqJDJ9
+Emma Lee	Electronic	None	19	3.3	Tampa, FL, United States	https://rateyourmusic.com/artist/emma-lee-1	None
+Englewood Pop Star	Folk Punk, Anti-Folk, Indietronica	None	67	2.56	Concord, NH, United States	https://rateyourmusic.com/artist/englewood-pop-star	None
+Envelope Generator	Synthpop	217	24	3.16	Brighton, East Sussex, United Kingdom	https://rateyourmusic.com/artist/envelope-generator	https://open.spotify.com/artist/2w8lYe6TbOKdCtl40EIETM
+Envvy	Black Metal	15	6	2.88	United Kingdom	https://rateyourmusic.com/artist/envvy	https://open.spotify.com/artist/0OppF5UxMZvTyAVqJfe1Af
+Erith Discord	Folk Punk	None	4	3.24		https://rateyourmusic.com/artist/erith-discord	None
+Est Complexus	Synthpop	None	1	1.67	Alexandria, VA, United States	https://rateyourmusic.com/artist/est-complexus	None
+estelle allen	Hyperpop	6101	60	3.02	Los Angeles, CA, United States	https://rateyourmusic.com/artist/estelle-allen	https://open.spotify.com/artist/2tjDBUi44p9i0zsZQW01o4
+Ethel Cain	Dream Pop, Slowcore, Singer-Songwriter, Ethereal Wave, Ambient Pop, Pop Rock	404006	6184	3.66	Pittsburgh, PA, United States	https://rateyourmusic.com/artist/ethel-cain	https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2
+Eva Gnostiquette	Slacker Rock	7	1	1.0	Norwalk, CT, United States	https://rateyourmusic.com/artist/eva-gnostiquette	https://open.spotify.com/artist/1bH92fKthxRd98lG9GF5Sy
+Evan Greer	Folk Punk, Queercore, Indie Rock	2747	40	3.02	Boston, MA, United States	https://rateyourmusic.com/artist/evan-greer	https://open.spotify.com/artist/53nTXspPdZCIMnq5I1PVnK
+Evelyn Zajac	Metal	None	2	1.5	Chester, VA, United States	https://rateyourmusic.com/artist/evelyn-zajac	None
+Everson Poe	Atmospheric Sludge Metal, Atmospheric Black Metal	318	28	2.96	Chicago, IL, United States	https://rateyourmusic.com/artist/everson-poe	https://open.spotify.com/artist/2ExbMK2OFpNJbjtcKaDZws
+Evil Divine	Thrash Metal	135	9	3.12		https://rateyourmusic.com/artist/evil_divine	https://open.spotify.com/artist/0a14mbQqrv7NzF5xk05Tc3
+Ex. by V.		None	4	4.11		https://rateyourmusic.com/artist/ex__by_v_	None
+Extremity	Death Metal	4300	261	3.34		https://rateyourmusic.com/artist/extremity	https://open.spotify.com/artist/42iMHtuQke7Z1refGmTW3w
+Ezra Furman	Indie Rock, Garage Punk, Television Music, Garage Rock Revival, Indie Pop, Art Rock	173950	1308	3.39		https://rateyourmusic.com/artist/ezra-furman	https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY
+Ezra Furman & The Harpoons	Indie Rock, Singer-Songwriter	10735	221	3.38		https://rateyourmusic.com/artist/ezra-furman-and-the-harpoons	https://open.spotify.com/artist/6mMA3DehwLwdvO6YlwUFHk
+Ezra Michel	Pop	4667	1	2.07	Los Angeles, CA, United States	https://rateyourmusic.com/artist/ezra-michel	https://open.spotify.com/artist/5cKZAUUJMK9Ef4gUeW0Zjz
+Fairything		575	8	3.91		https://rateyourmusic.com/artist/fairything	https://open.spotify.com/artist/28quuASYfs1CNVuKptyVxu
+Famitory	Hardcore [EDM]	None	14	2.52	ON, Canada	https://rateyourmusic.com/artist/famitory	None
+felicita	Bubblegum Bass, Electronic, UK Bass, Deconstructed Club, Ambient, Electro-Industrial	14335	721	3.04	London, Greater London, United Kingdom	https://rateyourmusic.com/artist/felicita-1	https://open.spotify.com/artist/6GmZBJpAV2nkNPFbF64QcX
+Felix Keigh		None	1	0.0	Buffalo, NY, United States	https://rateyourmusic.com/artist/felix-keigh	None
+Feminazgûl	Atmospheric Black Metal	None	201	2.88	Asheville, NC, United States	https://rateyourmusic.com/artist/feminazgul	None
+Feminizer	Depressive Black Metal	533	30	3.44	Seattle, WA, United States	https://rateyourmusic.com/artist/feminizer	https://open.spotify.com/artist/5ruPwNHu0gaTD3OYweTU8W
+Fer Suarez	Noise	None	7	3.88		https://rateyourmusic.com/artist/fer-suarez	None
+Fifty Grand	Witch House, Cloud Rap, Ambient, Art Pop, Instrumental Hip Hop, Trap	20124	163	3.16	Los Angeles, CA, United States	https://rateyourmusic.com/artist/fifty-grand	https://open.spotify.com/artist/6XVOloBtqazlT9fufDyyZV
+Finally Happy	Slowcore, Death Industrial, Singer-Songwriter, Dark Folk, Avant-Folk, Experimental Hip Hop	736	188	3.01	Sunnyvale, CA, United States	https://rateyourmusic.com/artist/finally-happy	https://open.spotify.com/artist/1USknhNvzp3ZqyysZp5JEG
+Fingerspit	Video Game Music, Post-Rock, Ambient, Electronic, Trip Hop	6234	63	3.55	Sevilla, Andalucía, Spain	https://rateyourmusic.com/artist/fingerspit	https://open.spotify.com/artist/0bKtV7eOLdtkULTDUeqjny
+Fiona's Spiral	Neo-Psychedelia, Hypnagogic Pop, Experimental, Noise Pop, Electro-Industrial	11	39	3.2		https://rateyourmusic.com/artist/fionas-spiral	https://open.spotify.com/artist/7aSynPjVAOOE3h0jffop3N
+Firefox	IDM, Experimental	None	1	0.0	Russian Federation	https://rateyourmusic.com/artist/firefox-1	None
+Five Star Hotel	Power Noise, Electro-Industrial, IDM, Deconstructed Club, Footwork, Post-Industrial	7003	1906	3.46	Pittsburgh, PA, United States	https://rateyourmusic.com/artist/five-star-hotel	https://open.spotify.com/artist/4qRvtAdrXBBT0flfKrVmxG
+FJF	Experimental, Free Improvisation, Anti-Folk	None	0	2.23	South Lake Tahoe, CA, United States	https://rateyourmusic.com/artist/fjf_f1	None
+Floodhag	Black Metal	None	12	3.62		https://rateyourmusic.com/artist/floodhag	None
+Floral Tattoo	Emo, Shoegaze, Noise Pop, Power Pop, Indie Rock, Dream Pop	4465	1196	3.18	Seattle, WA, United States	https://rateyourmusic.com/artist/floral-tattoo-1	https://open.spotify.com/artist/5A9WRVGRY9QQf7RVJxVnSS
+Florian-Ayala Fauna	Industrial	None	2	0.0	Buffalo, NY, United States	https://rateyourmusic.com/artist/florian-ayala-fauna	None
+Flower	Anarcho-Punk, Stenchcore	284056	35	3.38		https://rateyourmusic.com/artist/flower-2	https://open.spotify.com/artist/0VPLGnexd8K6BGbpLiPPVj
+Flower Crown Me a Queen	Folk Punk	None	7	2.75		https://rateyourmusic.com/artist/flower-crown-me-a-queen	None
+Flowers Taped to Pens	Midwest Emo, Screamo	None	530	3.0		https://rateyourmusic.com/artist/flowers-taped-to-pens	None
+flowing panda	Singer-Songwriter	18	3	3.75	Łódź, łódzkie, Poland	https://rateyourmusic.com/artist/flowing-panda	https://open.spotify.com/artist/73uH2f85IABo20W97Cd6WG
+Flummox	Avant-Garde Metal, Progressive Metal, Stoner Metal	2595	99	3.49		https://rateyourmusic.com/artist/flummox	https://open.spotify.com/artist/4gXhlZPlsmjQXsbFUEUTzi
+Food House	Hyperpop, Electropop, Electronic Dance Music, Electro House, Bubblegum Bass	40809	3157	3.46	Boston, MA, United States	https://rateyourmusic.com/artist/food-house	https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g
+Forced Into Femininity	Synth Punk, Noise	111	16	2.23		https://rateyourmusic.com/artist/forced-into-femininity	https://open.spotify.com/artist/5y1GMwJvXVplsdFRhxi6FB
+Foster Carrots	Folk	None	1	3.5	Washington, DC, United States	https://rateyourmusic.com/artist/foster-carrots	None
+FOXCULT	Post-Hardcore, Emo-Pop	3272	65	3.73		https://rateyourmusic.com/artist/foxcult	https://open.spotify.com/artist/7L6kMvKSw3xxrjQjkHxTVO
+Foxtails	Screamo, Midwest Emo, Post-Hardcore, Art Punk	30519	5264	3.55		https://rateyourmusic.com/artist/foxtails	https://open.spotify.com/artist/428Jnte7ijQ5BCSXQoxpmO
+Fraxiom	Hyperpop, Pop Rap, Experimental Hip Hop, Digicore, Bubblegum Bass, Alt-Pop	31533	1862	3.35	Chicago, IL, United States	https://rateyourmusic.com/artist/fraxiom	https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL
+Freet Rella	Experimental	None	1	0.0	NY, United States	https://rateyourmusic.com/artist/freet-rella	None
+Freya	Midwest Emo, Dream Pop	None	31	3.3	Melbourne, VIC, Australia	https://rateyourmusic.com/artist/freya-1	None
+Friendly Clip Art	Electronic, Experimental	None	29	3.24	Powhatan, VA, United States	https://rateyourmusic.com/artist/friendly-clip-art	None
+frrn	Ambient	None	2	2.81	Seattle, WA, United States	https://rateyourmusic.com/artist/frrn	None
+G.L.O.S.S.	Queercore, Hardcore Punk, D-Beat	None	1493	3.55		https://rateyourmusic.com/artist/g_l_o_s_s	None
+gammaGIRL	Slacker Rock, Horror Punk	1553	117	3.4	Blackpool, Lancashire, United Kingdom	https://rateyourmusic.com/artist/gammagirl	https://open.spotify.com/artist/12wxb0rncHIQ0WZUpxdEUl
+Garden Angel	Experimental, Emo, Ambient, New Age, Free Improvisation, Bedroom Pop	495	403	2.84	Cookeville, TN, United States	https://rateyourmusic.com/artist/garden-angel	https://open.spotify.com/artist/6sv5dWWZb5P5P9ybzwNoD7
+Gay Sin	Punk, Power Pop	None	15	3.63		https://rateyourmusic.com/artist/gay-sin	None
+Gender Trash	Folk Punk	None	1	0.0	Petaluma, CA, United States	https://rateyourmusic.com/artist/gender-trash	None
+Genesis Fawn		707	18	3.39	Dublin, Dublin, Ireland	https://rateyourmusic.com/artist/genesis-fawn	https://open.spotify.com/artist/2q4nfS8yg52MqMLmZ48deS
+Genesis P-Orridge	Experimental, Electronic, Spoken Word, Industrial, Film Score, Post-Industrial	8417	594	3.21		https://rateyourmusic.com/artist/genesis-p-orridge	https://open.spotify.com/artist/1LIz0YepKcwUvVwWfMAUA6
+Genital Shame	Black Metal	181	17	3.31	Pittsburgh, PA, United States	https://rateyourmusic.com/artist/genital-shame	https://open.spotify.com/artist/6jEQ9wweXV1cIGa6Wga1do
+GenreQueer	Electronic	None	1	0.0	Trondheim, Sør-Trøndelag, Norway	https://rateyourmusic.com/artist/genrequeer	None
+George Buzinkai		None	1	0.0		https://rateyourmusic.com/artist/george-buzinkai	None
+Gigakoops		None	3	3.34		https://rateyourmusic.com/artist/gigakoops	None
+Gingerbee	Midwest Emo, Screamo, Noise Pop	2053	603	3.51		https://rateyourmusic.com/artist/gingerbee	https://open.spotify.com/artist/4Qbxl6JsnUViVB7QmNjoH0
+Girlpool	Indie Pop, Slacker Rock, Bedroom Pop, Indie Rock, Dream Pop	127003	1831	3.11		https://rateyourmusic.com/artist/girlpool	https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ
+Girls Rituals	Electropop, Indietronica, Synthpop, Glitch Pop, Power Noise, IDM	29630	1311	3.5	Toronto, ON, Canada	https://rateyourmusic.com/artist/girls-rituals	https://open.spotify.com/artist/5HdEsw8d1ZGm49Aw7GWTuD
+glass beach	Indie Rock, Power Pop, Art Rock, Indietronica, Midwest Emo	94828	6322	3.42		https://rateyourmusic.com/artist/glass-beach	https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH
+Go! Child	Indietronica, Indie Pop, Bitpop	12276	43	3.05		https://rateyourmusic.com/artist/go-child	https://open.spotify.com/artist/71NoNPQLCQJOnBRKas4PeH
+Goodnight Girl	Indietronica	None	13	3.13		https://rateyourmusic.com/artist/goodnight-girl	None
+gothicwvlff	Dark Ambient, Sequencer & Tracker	12	34	3.14		https://rateyourmusic.com/artist/gothicwvlff	https://open.spotify.com/artist/3YbK16JLTLdQ58YLZHJaFL
+graveem1nd	Hip Hop, Pop	None	34	3.19		https://rateyourmusic.com/artist/graveem1nd	None
+Grumpster	Pop Punk	14525	70	3.35		https://rateyourmusic.com/artist/grumpster	https://open.spotify.com/artist/6aUzts6HmxY9CVr6U5hILq
+Hagazussa	Black Metal	46	7	3.33	Portland, OR, United States	https://rateyourmusic.com/artist/hagazussa	https://open.spotify.com/artist/52lQzYgZEnZAf7Sm3gUkqC
+Hank Bertholf		None	2	0.0	Portland, OR, United States	https://rateyourmusic.com/artist/hank-bertholf	None
+Hannah	Hypnagogic Pop, Tape Music, Noise	None	62	3.39		https://rateyourmusic.com/artist/hannah-2	None
+Hard Femme	Pop	219	1	2.0	Chicago, IL, United States	https://rateyourmusic.com/artist/hard-femme	https://open.spotify.com/artist/4l8MJkHtWChhWa08HcYixt
+Harmony's Cuddle Party	Twee Pop	191	10	4.16		https://rateyourmusic.com/artist/harmonys-cuddle-party	https://open.spotify.com/artist/2kooGC4qTTltgqQ6wojyHG
+Heather Alexander	Contemporary Folk	8701	17	3.52	Portland, OR, United States	https://rateyourmusic.com/artist/heather-alexander	https://open.spotify.com/artist/55AlphE9y02SH7btUJJfQF
+Helena Celle	Electronic, Glitch Hop	494	41	3.31	Glasgow, Glasgow City, United Kingdom	https://rateyourmusic.com/artist/helena-celle	https://open.spotify.com/artist/5vxbPRnqmNSf2RDhaJYXc7
+Hit Like a Girl	Indie Rock	2083	7	2.72	Montclair, NJ, United States	https://rateyourmusic.com/artist/hit-like-a-girl	https://open.spotify.com/artist/0saOG9dPAQ3PCwLLVNlgvQ
+Holidaykiss	Hyperpop, Electropop	561	62	3.3	Philadelphia, PA, United States	https://rateyourmusic.com/artist/holidaykiss	https://open.spotify.com/artist/5bVXcowSBEn2xzvYkQe2uJ
+hollow hymns	Slacker Rock, Noise Pop	23	8	3.24	Crystal Lake, IL, United States	https://rateyourmusic.com/artist/hollow-hymns	https://open.spotify.com/artist/5lP1e80tW4Wst4kwWYerur
+Home Is Where	Midwest Emo, Post-Hardcore, Emo	18849	3511	3.51	United States	https://rateyourmusic.com/artist/home-is-where	https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2
+Honey Dijon	Garage House, Diva House, Deep House, House, Tech House	111442	220	3.29	New York, NY, United States	https://rateyourmusic.com/artist/honey-dijon	https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS
+Hop Along	Indie Rock, Indie Folk, Singer-Songwriter, Anti-Folk, Indie Pop	106618	5507	3.58	Philadelphia, PA, United States	https://rateyourmusic.com/artist/hop-along	https://open.spotify.com/artist/3yYUV3hkJit05YIUEODqgp
+Imaginary Hockey League	Pop Punk, Emo	139	9	2.71		https://rateyourmusic.com/artist/imaginary-hockey-league	https://open.spotify.com/artist/3Rx9VsBaXvq4qCM4GODnh7
+Index	Electronic Dance Music	None	10	2.88		https://rateyourmusic.com/artist/index-4	None
+Inland Island	Pop Rock	106	2	2.21		https://rateyourmusic.com/artist/inland-island	https://open.spotify.com/artist/6M8SdXTsEkoHKY4xbRq0qh
+Inseut	Glitch, Avant-Folk, Sound Collage, Ambient, Noise	36	27	2.78		https://rateyourmusic.com/artist/inseut	https://open.spotify.com/artist/2Wu4vcBQsUCdIqkGFbti2Z
+INTERNET CLUB	Vaporwave, Ambient, Broken Transmission	None	989	3.23	Dallas, TX, United States	https://rateyourmusic.com/artist/internet-club	None
+Isabella James	Indie Folk, Experimental Rock, Art Rock, Orchestral, Progressive Rock, Folktronica	None	157	3.32	Leeds, Yorkshire, United Kingdom	https://rateyourmusic.com/artist/isabella-james-2	None
+Itarya Rosenberg		None	0	0.0	Philadelphia, PA, United States	https://rateyourmusic.com/artist/itarya-rosenberg	None
+Izzy Heltai	Boston Folk, Western Mass Indie	4162	6	3.73	North Adams, MA, United States	https://rateyourmusic.com/artist/izzy-heltai	https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF
+J O H N I D A L I S		None	2	2.22		https://rateyourmusic.com/artist/j-o-h-n-i-d-a-l-i-s	None
+Jackie Shane	Southern Soul, Deep Soul	15929	342	3.67		https://rateyourmusic.com/artist/jackie-shane	https://open.spotify.com/artist/6AXXiSvB6R7MpYsXW1inOx
+Jackie Ward	Indie Pop, Indie Rock, Ambient Pop	211	95	3.54	New York, NY, United States	https://rateyourmusic.com/artist/jackie-ward	https://open.spotify.com/artist/6cPL9m8uFzIEinRVhpacNl
+Jaiden Macintosh	Drone, Ambient, Glitch, Plunderphonics	28	55	2.61	MI, United States	https://rateyourmusic.com/artist/jaiden-macintosh	https://open.spotify.com/artist/1IzU342HxHqTfWxirKFYDZ
+Jaimie Wilson		4501	1	3.67	New York, NY, United States	https://rateyourmusic.com/artist/jaimie-wilson	https://open.spotify.com/artist/3RO6xmj1dJKCZRxdlujdNu
+Jake Zyrus	Opm	16627	0	0.0		https://rateyourmusic.com/artist/jake-zyrus-1	https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr
+Jana Hunter	Singer-Songwriter, Freak Folk, Indie Folk	6673	371	3.23	Baltimore, MD, United States	https://rateyourmusic.com/artist/jana_hunter	https://open.spotify.com/artist/3iCtPx8eaTKvuu0SujhEg1
+Jane Remover	Digicore, Hyperpop, Trap, Pop Rap, Shoegaze, Mashup	48628	8721	3.63	Chicago, IL, United States	https://rateyourmusic.com/artist/jane-remover	https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu
+jane's sound castle	Electronic, IDM	None	37	3.88		https://rateyourmusic.com/artist/janes-sound-castle	None
+Janis Lago	Post-Industrial, Progressive Electronic, IDM, Electronic, Experimental, Deconstructed Club	46	267	3.32		https://rateyourmusic.com/artist/janis-lago	https://open.spotify.com/artist/6m0rFXSSOL3JARnZOsziJJ
+Jayne County	Glam Punk, Punk Rock, Post-Punk	4309	239	3.38	New York, NY, United States	https://rateyourmusic.com/artist/jayne-county	https://open.spotify.com/artist/14lR0MxZQqgAf7Zam2pwiI
+Jolyne!	Nightcore, Plunderphonics, Noise, Vaporwave, Mashup, Glitch	None	69	2.84	Champaign, IL, United States	https://rateyourmusic.com/artist/jolyne	None
+Jordaan Mason	Indie Folk, Singer-Songwriter, Slacker Rock, Anti-Folk, Contemporary Folk, Chamber Pop	6994	1401	3.6	Toronto, ON, Canada	https://rateyourmusic.com/artist/jordaan-mason	https://open.spotify.com/artist/5zInXkhCwoT9HGWgeKjKS6
+Jordaan Mason & The Horse Museum	Indie Folk, Singer-Songwriter, Anti-Folk	10457	3122	3.71	Toronto, ON, Canada	https://rateyourmusic.com/artist/jordaan-mason-and-the-horse-museum	https://open.spotify.com/artist/5EQ6WS0sO77AIhthug6S0U
+Jordaan Mason & Their Orchestra	Singer-Songwriter, Chamber Pop, Indie Folk	500	103	3.54		https://rateyourmusic.com/artist/jordaan-mason-and-their-orchestra	https://open.spotify.com/artist/3H3yUb3AWdSTaSBazTuM1t
+Jordan/Martin Hell	Indie Rock	7	1	3.11	London, Greater London, United Kingdom	https://rateyourmusic.com/artist/jordan_martin-hell	https://open.spotify.com/artist/6zOfwwAmKbKHCZZNtBAOOJ
+Jordana LeSesne	Drum and Bass	None	5	4.04	New York, NY, United States	https://rateyourmusic.com/artist/jordana-lesesne	None
+Joséphine Paquette	Experimental	None	16	3.35	Brattleboro, VT, United States	https://rateyourmusic.com/artist/josephine-paquette	None
+Josephine Collective	Emo-Pop	1229	11	4.1		https://rateyourmusic.com/artist/josephine_collective	https://open.spotify.com/artist/3DYZNxpjVQiMknt4farIZ6
+Juliana Huxtable	Deconstructed Club	None	55	2.78	New York, NY, United States	https://rateyourmusic.com/artist/juliana-huxtable	None
+June LaLonde	Indietronica, IDM, Electronic, Synthpop	501	85	3.46	Minneapolis, MN, United States	https://rateyourmusic.com/artist/june-lalonde	https://open.spotify.com/artist/1IU8Y8EUogFf85PtoaikIK
+Just Fern	Indie Rock, Singer-Songwriter, Art Pop, Alternative R&B, Electropop, Progressive Pop	795	93	3.58	Pittsburgh, PA, United States	https://rateyourmusic.com/artist/just-fern	https://open.spotify.com/artist/1vAH8SlfKceI6URHfDhUa0
+Jvly38!	Cloud Rap, Abstract Hip Hop, Experimental Hip Hop	51	31	2.89		https://rateyourmusic.com/artist/jvly38	https://open.spotify.com/artist/6ycDuBoK8c48jfYE7DfWJj
+jx333	Digicore, Cloud Rap	73	20	3.34	Brisbane, QLD, Australia	https://rateyourmusic.com/artist/jx333	https://open.spotify.com/artist/4kYDxZEM6aJu23GUa6yXzC
+Katastrophe	Hip Hop	936	2	2.04	San Francisco, CA, United States	https://rateyourmusic.com/artist/katastrophe	https://open.spotify.com/artist/4480P62XcAkqNwqeIxPbuY
+Katie Dey	Indietronica, Art Pop, Neo-Psychedelia, Hypnagogic Pop, Glitch Pop, Chamber Pop	16742	3359	3.43		https://rateyourmusic.com/artist/katie-dey	https://open.spotify.com/artist/1SETr6LqWZXbJyEDVe6xDc
+Kaylon		None	3	0.0	AZ, United States	https://rateyourmusic.com/artist/kaylon	None
+Kerosin95	Pop Rap, Conscious Hip Hop	12128	20	3.7	Wien, Wien, Austria	https://rateyourmusic.com/artist/kerosin95	https://open.spotify.com/artist/43lLFqwBfXJP3T5ZsL6E2x
+Kid Trash	Digicore, Trap, Pop Rap, Emo Rap, Cloud Rap, UK Hip Hop	20529	726	3.33	Nottingham, Nottinghamshire, United Kingdom	https://rateyourmusic.com/artist/kid-trash	https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh
+Kim Petras	Electropop, Dance-Pop, Contemporary R&B, Synthpop, Nu-Disco, Pop Rap	1020316	3905	2.97	Los Angeles, CA, United States	https://rateyourmusic.com/artist/kim-petras	https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J
+Kitchen	Indie Rock	None	0	0.0	San Francisco, CA, United States	https://rateyourmusic.com/artist/kitchen-1	None
+Klessa	Folk	None	14	3.47		https://rateyourmusic.com/artist/klessa	None
+Kyros	Art Rock, Neo-Prog, Progressive Rock	3283	97	3.22		https://rateyourmusic.com/artist/kyros	https://open.spotify.com/artist/5kkMk2sv7YERByS9TDAf5u
+la pumpkin	Electronic	66	8	1.15	Savannah, GA, United States	https://rateyourmusic.com/artist/la_pumpkin	https://open.spotify.com/artist/5pCmidXcl8YtNlQNjAkvmM
+Lady Kabela	Experimental	172	9	3.5	NC, United States	https://rateyourmusic.com/artist/lady-kabela	https://open.spotify.com/artist/527xNtusheMvze7ED5JGIN
+Laïka & The Tape Loops	Experimental	None	5	2.7	Baltimore, MD, United States	https://rateyourmusic.com/artist/laika-and-the-tape-loops	None
+Laura Jane Grace	Folk Punk, Singer-Songwriter, Indie Folk, Indie Rock, Punk Rock, Indie Pop	33644	419	3.18	Chicago, IL, United States	https://rateyourmusic.com/artist/laura-jane-grace	https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9
+Laura Les	Hyperpop, Bubblegum Bass, Nightcore, Ambient, Pop Rap, Emo Rap	132416	3109	3.55		https://rateyourmusic.com/artist/laura-les	https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6
+Lauren Bousfield	Glitch Pop, Breakcore, IDM, Glitch, Electropop, Video Game Music	13369	1160	3.5	Los Angeles, CA, United States	https://rateyourmusic.com/artist/lauren-bousfield	https://open.spotify.com/artist/3RSVE1IZ6vEWn1IXW9TBkv
+Lauren O'Connell	Indie Folk	19294	20	3.78		https://rateyourmusic.com/artist/lauren_oconnell	https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns
+Left at London	Indie Pop, Alternative R&B, Art Pop, Singer-Songwriter, Alt-Pop, Pop Soul	51281	975	3.4	Seattle, WA, United States	https://rateyourmusic.com/artist/left-at-london	https://open.spotify.com/artist/3xPCFC8f7U3raEXOXQ3MrE
+Lena Raine	Video Game Music, Ambient, Digital Fusion, Electronic, Cinematic Classical, Chamber Folk	188637	2840	3.8		https://rateyourmusic.com/artist/lena-raine	https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z
+Lenny Zenith	Noise Pop	166	0	0.0	New York, NY, United States	https://rateyourmusic.com/artist/lenny-zenith	https://open.spotify.com/artist/70SgeFja8h8d6Q09YuZ0x9
+Leor Miller	Slacker Rock	None	7	2.97	Red Hook, NY, United States	https://rateyourmusic.com/artist/leor-miller	None
+leroy	Dariacore, Future Bass, Mashup, Speed House, Hard Dance, Electronic Dance Music	None	4702	3.6	Chicago, IL, United States	https://rateyourmusic.com/artist/leroy-2	None
+lexycat	Atmospheric Drum and Bass, HexD, Indietronica, Drum and Bass, Plunderphonics	781	52	3.34	NSW, Australia	https://rateyourmusic.com/artist/lexycat	https://open.spotify.com/artist/4h2w55mRM0SkL9c0fu3qAC
+lich	Witch House, Drone	None	8	3.24	Seattle, WA, United States	https://rateyourmusic.com/artist/lich_f1	None
+Lieu	Digicore, Pop Rap, Hyperpop, Emo Rap, Trap, Cloud Rap	42762	301	3.5	Livonia, MI, United States	https://rateyourmusic.com/artist/lieu	https://open.spotify.com/artist/0MliYj4eUtEoxXU56zBOqx
+Life of Agony	Alternative Metal, Alternative Rock, Grunge, Post-Grunge, New York Hardcore	87747	1452	3.45		https://rateyourmusic.com/artist/life-of-agony	https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl
+Life Silence Genesis	Plunderphonics, Vaporwave	None	51	3.48		https://rateyourmusic.com/artist/life-silence-genesis	None
+Lilium Kobayashi	Electronic	None	3	2.81	Kyoto, Kyoto, Japan	https://rateyourmusic.com/artist/lilium-kobayashi	None
+lilslugger2k18	Ambient, Noise, Vaporwave	14	33	2.9	West Chester, PA, United States	https://rateyourmusic.com/artist/lilslugger2k18	https://open.spotify.com/artist/5h2gbmcA2gc4IdqdHTrDbu
+Lily of the Moon	Atmospheric Drum and Bass, Hardcore Breaks	3	103	3.35		https://rateyourmusic.com/artist/lily-of-the-moon	https://open.spotify.com/artist/1pzIBWjS7fUYJwVQ47yheC
+Lionizer	Pop Punk	629	3	3.07		https://rateyourmusic.com/artist/lionizer	https://open.spotify.com/artist/21WQmqQVrcZjSpEi49vuOF
+Little Fire	Experimental	None	1	2.0	Victoria, BC, Canada	https://rateyourmusic.com/artist/little-fire	None
+Little Teeth	Freak Folk	251	366	3.58		https://rateyourmusic.com/artist/little-teeth-1	https://open.spotify.com/artist/72Grc3CdoWyicsrGcKSKW9
+Little Axe Broadnax		None	0	0.0		https://rateyourmusic.com/artist/little_axe_broadnax	None
+Liturgy	Avant-Garde Metal, Black Metal, Experimental Rock, Progressive Metal, Chamber Music, Post-Metal	51320	11192	3.42		https://rateyourmusic.com/artist/liturgy-2	https://open.spotify.com/artist/5PIuMlRY9PSLUSFzs6lQu1
+Liza N'Eliaz	Industrial Hardcore, Gabber, Art Pop, Minimal Wave, Speedcore, Hardcore [EDM]	None	181	3.46		https://rateyourmusic.com/artist/liza-neliaz	None
+Lorelei K	Art Pop	1678	24	3.38	Denton, TX, United States	https://rateyourmusic.com/artist/lorelei-k	https://open.spotify.com/artist/45S4hvGED95Ghtx9PaGiKG
+Lorri Alison	Sound Collage, Broken Transmission, Death Industrial	None	117	3.34	Dexter, MO, United States	https://rateyourmusic.com/artist/lorri-alison-1	None
+Louisa Jo Killen	Northumbrian Folk Music, Sea Shanty, English Folk Music, A cappella	None	216	3.48		https://rateyourmusic.com/artist/louisa-jo-killen	None
+Lucas Charlie Rose		None	1	0.0	Montréal, QC, Canada	https://rateyourmusic.com/artist/lucas-charlie-rose	None
+Lucas Silveira		509	2	3.0		https://rateyourmusic.com/artist/lucas-silveira-1	https://open.spotify.com/artist/3uXMQ2zTnNK9YkZRIhkc16
+Lucy Jane Garcia	Harsh Noise	None	5	3.21	MI, United States	https://rateyourmusic.com/artist/lucy-jane-garcia	None
+Lucy Loone	Trap, Alt-Pop, Alternative R&B, Contemporary R&B, Pop Rap, Cloud Rap	32216	43	3.27	Los Angeles, CA, United States	https://rateyourmusic.com/artist/lucy-loone-1	https://open.spotify.com/artist/0seIM4z37CkUcsuu7kpzF9
+Lunachicks	Riot Grrrl, Punk Rock, Hardcore Punk, Garage Punk	61788	396	3.32		https://rateyourmusic.com/artist/lunachicks	https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X
+Lunar Plexus	Free Improvisation	None	7	3.18		https://rateyourmusic.com/artist/lunar-plexus-1	None
+Lushloss	Slacker Rock, Ambient Pop	305	23	3.16	Seattle, WA, United States	https://rateyourmusic.com/artist/lushloss	https://open.spotify.com/artist/24TqZsQXfGjFlD8mk1uspL
+Lust Hag	Black Metal	146	26	3.42	Missoula, MT, United States	https://rateyourmusic.com/artist/lust-hag	https://open.spotify.com/artist/7tgTM9YAFU5tZoleWZZLX5
+Lyra Pramuk	Ambient, A cappella, Electronic	17424	1109	3.37	Berlin, Berlin, Germany	https://rateyourmusic.com/artist/lyra-pramuk	https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm
+m a l i b l u e :(	Vaporwave, Ambient	None	192	3.31		https://rateyourmusic.com/artist/m_a_l_i_b_l_u_e___	None
+Machine Girl	Hardcore Breaks, Digital Hardcore, Footwork, Video Game Music, Drum and Bass, UK Bass	441565	17155	3.6	Pittsburgh, PA, United States	https://rateyourmusic.com/artist/machine-girl	https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0
+machineplus	Slacker Rock, Shoegaze, Noise Pop, Experimental Rock, HexD, Neo-Psychedelia	152	594	3.08	Detroit, MI, United States	https://rateyourmusic.com/artist/machineplus	https://open.spotify.com/artist/1mWxdUSasda7t6ohnm7iD2
+Macy Rodman	Electropop	2809	34	3.26	Brooklyn, NY, United States	https://rateyourmusic.com/artist/macy-rodman	https://open.spotify.com/artist/64RYvzNaD6RCGOzTCBtZUk
+Madame Vile	Noise	None	2	0.0	Ulster Park, NY, United States	https://rateyourmusic.com/artist/madame-vile	None
+magicregret	Electronic	None	7	3.89	United Kingdom	https://rateyourmusic.com/artist/magicregret	None
+Mal Blum	Singer-Songwriter, Indie Pop, Indie Rock, Pop Punk, Indie Folk	52205	213	3.4	New York, NY, United States	https://rateyourmusic.com/artist/mal-blum	https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX
+MALLRAT	Indie Rock	2072	24	3.33		https://rateyourmusic.com/artist/mallrat	https://open.spotify.com/artist/42nmLj1rBgUFKuof20S09m
+Manapool	Atmospheric Drum and Bass, Breakcore	2184	197	3.39	St. Louis, MO, United States	https://rateyourmusic.com/artist/manapool	https://open.spotify.com/artist/2tokzcTvZ9YNKxyKl6ljqE
+Manndēor	Black Metal	None	11	2.84	NY, United States	https://rateyourmusic.com/artist/manndeor	None
+Marcéo Martinez		None	0	0.0		https://rateyourmusic.com/artist/marceo-martinez	None
+Marcie Free	AOR, Hard Rock	180	60	3.69		https://rateyourmusic.com/artist/marcie-free	https://open.spotify.com/artist/7aUB0zDNXOBAg6008pQDbv
+Marie France	Chanson, French Pop	490	48	3.39	Paris, Île-de-France, France	https://rateyourmusic.com/artist/marie-france	https://open.spotify.com/artist/5ho6QpmMmHatkArsnWMDlf
+Marie Gisbrecht	Experimental	None	1	1.5	Janesville, WI, United States	https://rateyourmusic.com/artist/marie-gisbrecht	None
+Marissa Martinez		None	1	0.0		https://rateyourmusic.com/artist/marissa-martinez	None
+Marumaru	Folktronica, Art Pop, Glitch Hop, IDM, Post-Rock, Ambient	61	102	3.73	Melbourne, VIC, Australia	https://rateyourmusic.com/artist/marumaru	https://open.spotify.com/artist/0vMPbb3XfFb5TrtQmyQx4A
+Mary's Wrath	Garage Punk	None	2	5.0	Muskegon, MI, United States	https://rateyourmusic.com/artist/marys-wrath	None
+Mattie Konig		None	0	3.0	Devon, United Kingdom	https://rateyourmusic.com/artist/mattie-konig	None
+Matty Grace	Punk	None	2	3.5	Ottawa, ON, Canada	https://rateyourmusic.com/artist/matty-grace	None
+Maverick Mayhem	Mashcore, Breakcore	None	8	1.44	FL, United States	https://rateyourmusic.com/artist/maverick-mayhem	None
+Mavi Phoenix	Pop Rap, Alternative R&B, Trap	33834	69	3.12		https://rateyourmusic.com/artist/mavi-phoenix	https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm
+May :3	Electronic	35	16	1.77	Sheffield, South Yorkshire, United Kingdom	https://rateyourmusic.com/artist/may-3-1	https://open.spotify.com/artist/3Ja9aa4jRxMqwMvCxyWLUW
+Maya Holiday	Ambient, Drone	None	25	3.67	KY, United States	https://rateyourmusic.com/artist/maya-holiday	None
+MBI	Experimental	None	4	3.01		https://rateyourmusic.com/artist/mbi	None
+Mel Stone	Folk Pop, Indie Rock, Queercore, Power Pop	2794	29	3.71	Portland, ME, United States	https://rateyourmusic.com/artist/mel-stone	https://open.spotify.com/artist/0uOCOkYMNqjfCKzw7NZthR
+Melamar	Electronic	None	1	0.0	Canada	https://rateyourmusic.com/artist/melamar	None
+Melissa Moore		None	7	0.0	PA, United States	https://rateyourmusic.com/artist/melissa-moore	None
+Melissa Thyme Monroe	Electronic	None	25	3.82		https://rateyourmusic.com/artist/melissa-thyme-monroe	None
+Mental Distress	Hardcore Punk	None	0	0.0		https://rateyourmusic.com/artist/mental-distress	None
+Meryn Cadell	Singer-Songwriter	925	37	3.27	Vancouver, BC, Canada	https://rateyourmusic.com/artist/meryn-cadell	https://open.spotify.com/artist/4sayRejEmyJTOahdXR4j2C
+Micro Colossus	Electronic	None	2	3.12	Chicago, IL, United States	https://rateyourmusic.com/artist/micro-colossus-1	None
+Mimi Janssen		None	1	0.0	Dexter, MO, United States	https://rateyourmusic.com/artist/mimi-janssen	None
+Mina Caputo	Alternative Rock, Pop Rock	1774	185	3.29	Netherlands	https://rateyourmusic.com/artist/mina-caputo	https://open.spotify.com/artist/2XCn7XWDbT0PiqG4yvmvcC
+Mira Snelder	Progressive Rock	None	12	3.65	Almere, Flevoland, Netherlands	https://rateyourmusic.com/artist/mira-snelder	None
+Modern Baseball	Midwest Emo, Emo-Pop, Indie Rock, Pop Punk, Emo	418472	4938	3.43		https://rateyourmusic.com/artist/modern-baseball	https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8
+Mood Killer	Hyperpop, Bubblegum Bass, Electropop, Deconstructed Club	6994	82	2.89	Los Angeles, CA, United States	https://rateyourmusic.com/artist/mood-killer	https://open.spotify.com/artist/7x3Dw6K5bpk80HwSzPEWjX
+Moonlight Sword	Black Metal	None	39	3.2	Greensboro, NC, United States	https://rateyourmusic.com/artist/moonlight-sword	None
+Morgan-Paige		98	2	3.5	Toronto, ON, Canada	https://rateyourmusic.com/artist/morgan-paige	https://open.spotify.com/artist/0grkg9FtxuVTYVNkc9oVOE
+Morphine	Depressive Black Metal	540	5	1.96	Bath, Somerset, United Kingdom	https://rateyourmusic.com/artist/morphine-1	https://open.spotify.com/artist/1vR1NnF8lnrMsF9KENHWVW
+Moss Witch	Black Metal, Dungeon Synth	None	16	2.65	San Francisco, CA, United States	https://rateyourmusic.com/artist/moss-witch	None
+Motherland	Synthpop	None	50	4.1		https://rateyourmusic.com/artist/motherland-1	None
+MowMowMow	Pop	190	23	3.57	New Orleans, LA, United States	https://rateyourmusic.com/artist/mowmowmow	https://open.spotify.com/artist/0ctitedOWKy9tGwQg4e2l7
+Mr.Sadcum	Sound Collage	7	10	3.68	Austria	https://rateyourmusic.com/artist/mr_sadcum	https://open.spotify.com/artist/4bDPbT2DJ4kbtrIsSOnN7a
+My Anime Eyes	Experimental	18	13	3.18		https://rateyourmusic.com/artist/my-anime-eyes	https://open.spotify.com/artist/4ih8kOnsQ5CweBqEVywzhz
+Mykki Blanco	Experimental Hip Hop, Pop Rap, East Coast Hip Hop, Abstract Hip Hop, Alternative R&B, Industrial Hip Hop	83377	686	3.1	Los Angeles, CA, United States	https://rateyourmusic.com/artist/mykki-blanco	https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr
+Näive Sense	Queercore, Hardcore Punk	None	28	3.89		https://rateyourmusic.com/artist/naive_sense	None
+Nameless Mist	Atmospheric Black Metal, Depressive Black Metal	835	344	3.39	Raleigh, NC, United States	https://rateyourmusic.com/artist/nameless-mist	https://open.spotify.com/artist/6lO2ScgRo9rhZTM6qbFR4u
+Nasty Facts	Power Pop, Pop Punk	None	331	3.74		https://rateyourmusic.com/artist/nasty_facts	None
+Nation of Two		None	1	2.03		https://rateyourmusic.com/artist/nation_of_two	None
+Navio Forge	Emo, Post-Hardcore	None	324	3.49		https://rateyourmusic.com/artist/navio-forge	None
+Negative Øhio	Avant-Garde Metal, Cybergrind, Digital Hardcore	123	27	2.95	Norway	https://rateyourmusic.com/artist/negative-ohio	https://open.spotify.com/artist/0ILt1HjsEFif10dSUWmeZe
+Nic Masangkay		137	2	3.25	Seattle, WA, United States	https://rateyourmusic.com/artist/nic-masangkay	https://open.spotify.com/artist/4sIOtO0yOaoOPInsuuT7Dq
+Nick Dispenser	Experimental, Free Folk	None	18	2.8		https://rateyourmusic.com/artist/nick_dispenser	None
+Nicky Flowers	Electronic	375	15	3.28	Chicago, IL, United States	https://rateyourmusic.com/artist/nicky-flowers	https://open.spotify.com/artist/2Eu6ifIqBlMTFMUynKi6TT
+Nightmare Lyre		19	4	2.2		https://rateyourmusic.com/artist/nightmare_lyre	https://open.spotify.com/artist/5AGMGlKhTOeVDOtgz5MBlv
+Nino Ramsby		None	28	3.23		https://rateyourmusic.com/artist/nino-ramsby	None
+NOAHFINNCE	Pop Punk	132986	30	2.98		https://rateyourmusic.com/artist/noahfinnce	https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM
+Noel'le Longhaul	Experimental	None	23	3.46	Montague, MA, United States	https://rateyourmusic.com/artist/noelle-longhaul	None
+Nora Nygard	Post-Punk	48	22	3.18	Minneapolis, MN, United States	https://rateyourmusic.com/artist/nora-nygard	https://open.spotify.com/artist/0UyXWR4tdCwRBb3AREgqPJ
+Not Right		None	4	3.81		https://rateyourmusic.com/artist/not_right	None
+Numbers Power	Singer-Songwriter	None	26	0.0	Seattle, WA, United States	https://rateyourmusic.com/artist/numbers-power	None
+Nusagi	Hyperpop	227	19	3.48	Easthampton, MA, United States	https://rateyourmusic.com/artist/nusagi	https://open.spotify.com/artist/2hqIZImqlWKsasi0CMdtAX
+O Rabelo	Hip Hop	1657	5	3.46		https://rateyourmusic.com/artist/o-rabelo	https://open.spotify.com/artist/1amjz5H0DoUbqueg1mxGWJ
+Octo Octa	Deep House, Breakbeat, House, Tech House, Progressive Breaks, Outsider House	52793	1742	3.35	Brooklyn, NY, United States	https://rateyourmusic.com/artist/octo-octa	https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17
+OneLeggedGod	Industrial Techno	None	5	0.0		https://rateyourmusic.com/artist/oneleggedgod	None
+OS2 // WARP	Ambient, Drone, Glitch, Noise, Experimental, Nightcore	None	79	2.98		https://rateyourmusic.com/artist/os2-warp	None
+p.s.you'redead	Sasscore, Mathcore, Screamo	2051	332	3.35		https://rateyourmusic.com/artist/p_s_youredead	https://open.spotify.com/artist/7r5DvzjDomjUOY4a88zf7k
+Pale North	Indie Rock, Slacker Rock	262	168	3.66		https://rateyourmusic.com/artist/pale-north	https://open.spotify.com/artist/5Qzwlys2VFYirZURRK8tOI
+Panda Nurse	Slacker Rock, Indie Rock, Indie Folk	15	47	3.0	St. Louis, MO, United States	https://rateyourmusic.com/artist/panda-nurse	https://open.spotify.com/artist/0m6BMZB2cxBVmjFwTrD5YI
+Papaya & Friends	Indietronica, Electropop, Indie Pop	1815	58	3.47		https://rateyourmusic.com/artist/papaya-and-friends	https://open.spotify.com/artist/2FLRYcPOzEp7SYR9fG0FFB
+Pariah	Post-Hardcore	None	3	3.5		https://rateyourmusic.com/artist/pariah-8	None
+Passing		None	9	3.3		https://rateyourmusic.com/artist/passing	None
+Patricia Taxxon	IDM, Ambient, Synthpop, Plunderphonics, Electronic Dance Music, Glitch	None	2231	3.39	Santa Cruz, CA, United States	https://rateyourmusic.com/artist/patricia-taxxon	None
+Peach Rings	Indie Rock, Power Pop	5487	48	3.62	Boone, NC, United States	https://rateyourmusic.com/artist/peach-rings	https://open.spotify.com/artist/5UGmBYowEIxtN1QFckaXPj
+Philomela	Electronic	None	2	2.21	Boulder, CO, United States	https://rateyourmusic.com/artist/philomela-1	None
+Phoebes :: inclusions		8	5	3.17	Łódź, łódzkie, Poland	https://rateyourmusic.com/artist/phoebes-inclusions	https://open.spotify.com/artist/0zMM3rAZuMjo1UFBqzL9Qe
+Pigeon Pit	Folk Punk, Singer-Songwriter, Alt-Country, Indie Folk	31441	351	3.42	Olympia, WA, United States	https://rateyourmusic.com/artist/pigeon-pit	https://open.spotify.com/artist/4Bmvzoo0CzEGV4EczcG9rv
+Pighati	Experimental	36	4	3.41	CA, United States	https://rateyourmusic.com/artist/pighati	https://open.spotify.com/artist/2ccDjV083GEuz6kId4VnLv
+Piratas sen parche	Rock	70	1	4.0		https://rateyourmusic.com/artist/piratas-sen-parche	https://open.spotify.com/artist/6TiZb6ZNa2SX8FcWmwCKVV
+PlanetZero	Pop Rap	None	31	3.53		https://rateyourmusic.com/artist/planetzero	None
+Pretty Swans	Dream Pop	None	8	3.64		https://rateyourmusic.com/artist/pretty_swans	None
+Project Armageddon	Traditional Doom Metal	227	23	3.07		https://rateyourmusic.com/artist/project-armageddon	https://open.spotify.com/artist/5WgVeYnFQwrRgSMsrpd7vC
+Proletariat Z	Broken Transmission	None	2	0.0		https://rateyourmusic.com/artist/proletariat-z	None
+Prometheus Rising		None	2	2.21		https://rateyourmusic.com/artist/prometheus_rising	None
+Protandrous	Glitch, Electronic	67	33	3.33		https://rateyourmusic.com/artist/protandrous	https://open.spotify.com/artist/311UUvWe7TdiDMJ0c9a5hZ
+Public Transit	Folk Punk	438	45	3.3	Philadelphia, PA, United States	https://rateyourmusic.com/artist/public-transit	https://open.spotify.com/artist/66HST7TTaeA8f7eyB38VUg
+Pupil Slicer	Mathcore, Metalcore	15164	1617	3.41		https://rateyourmusic.com/artist/pupil-slicer	https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk
+Pyka	Powerviolence, Queercore, Grindcore	None	24	3.34		https://rateyourmusic.com/artist/pyka	None
+QT	Bubblegum Bass, Dance-Pop	36353	1447	3.36		https://rateyourmusic.com/artist/qt-1	https://open.spotify.com/artist/5BrwToIWIxFwMToVViLr0z
+quinn	Digicore, Trap, Experimental Hip Hop, Emo Rap, Pop Rap, East Coast Hip Hop	170462	2521	3.44	Columbus, GA, United States	https://rateyourmusic.com/artist/quinn-3	https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN
+Quinn Christopherson	Singer-Songwriter	12123	14	2.99		https://rateyourmusic.com/artist/quinn-christopherson	https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j
+Quinn Marston	Singer-Songwriter	None	2	3.87	New York, NY, United States	https://rateyourmusic.com/artist/quinn-marston	None
+rachyl	Sigilkore, Cloud Rap, Trap, Experimental Hip Hop, Jersey Club	2499	95	3.43		https://rateyourmusic.com/artist/rachyl	https://open.spotify.com/artist/3luzt74TZrAX0FF96vFKqv
+radiator.	Hip Hop	None	2	0.0	CT, United States	https://rateyourmusic.com/artist/radiator-2	None
+Rae Spoon	Indie Rock, Indie Folk	5886	58	3.27	Victoria, BC, Canada	https://rateyourmusic.com/artist/rae-spoon	https://open.spotify.com/artist/507TICFblljsw2Nbk7wXbx
+Rainer Maria	Indie Rock, Midwest Emo, Emo	24006	1461	3.42	New York, NY, United States	https://rateyourmusic.com/artist/rainer-maria	https://open.spotify.com/artist/5OUVzPFZebtoZFs85MIQpz
+Raivoraittius	Hardcore Punk	None	1	3.5		https://rateyourmusic.com/artist/raivoraittius	None
+RAT BATH	Alternative Rock	3909	5	3.25	Milwaukee, WI, United States	https://rateyourmusic.com/artist/rat-bath	https://open.spotify.com/artist/0ysFX2UOVyz8FU6XwMepIK
+Rat Jesu	HexD, Alternative Rock, Emo Rap, Cloud Rap, Emo-Pop	1870	990	3.21		https://rateyourmusic.com/artist/rat-jesu	https://open.spotify.com/artist/3TQAE5gW9ZWvo41a6ceVdt
+ratwyfe	Pop	23248	2	2.96	Philadelphia, PA, United States	https://rateyourmusic.com/artist/ratwyfe	https://open.spotify.com/artist/5OlARALdX4igefmFOROcjB
+Raven Eldritch	Dark Ambient	None	19	3.59	Poland	https://rateyourmusic.com/artist/raven-eldritch	None
+Ravenna Hunt-Hendrix	Black Metal	None	108	2.97	Brooklyn, NY, United States	https://rateyourmusic.com/artist/ravenna-hunt-hendrix	None
+Record Setter	Screamo, Midwest Emo	5754	373	3.43		https://rateyourmusic.com/artist/record-setter 	https://open.spotify.com/artist/5dAHI3WBHJFGRaAyDm5VHT
+Repulsion	Grindcore, Death Metal	39566	3441	3.79		https://rateyourmusic.com/artist/repulsion	https://open.spotify.com/artist/1RTDcE5i7TUMhY4NsmqM4W
+Rin Vowell		None	2	0.0	Dexter, MO, United States	https://rateyourmusic.com/artist/rin-vowell	None
+rook&nomie	Electropop, Post-Industrial, Synthpop	2645	336	3.51	Oakland, CA, United States	https://rateyourmusic.com/artist/rookandnomie	https://open.spotify.com/artist/2Pps75q3uVx4rKja9bdFds
+Rose with Teeth	Neofolk, Indie Folk	76	32	3.01	Norwalk, CT, United States	https://rateyourmusic.com/artist/rose-with-teeth	https://open.spotify.com/artist/5Ybi2MPanLULTn88IYIoKO
+Roselit Bone	Gothic Country, Americana	2690	23	3.44		https://rateyourmusic.com/artist/roselit_bone	https://open.spotify.com/artist/37ycePIPQXwy6rXkjMLojU
+Roteer	Slacker Rock	None	18	2.8		https://rateyourmusic.com/artist/roteer	None
+Roxy Radclyffe	Experimental, Electronic, Ambient, Indietronica, Drone, Sound Collage	50	155	3.54		https://rateyourmusic.com/artist/roxy-radclyffe	https://open.spotify.com/artist/7klgNL7uUluGg0n9VTfP4Z
+Rumbleragga	Mashcore, Breakcore, Speedcore	290	30	3.44	Madison, WI, United States	https://rateyourmusic.com/artist/rumbleragga	https://open.spotify.com/artist/7pGvumNADWMNnzY7ZjINpF
+Rumpelstiltskin Grinder	Thrash Metal, Death Metal	2545	217	3.11		https://rateyourmusic.com/artist/rumpelstiltskin_grinder	https://open.spotify.com/artist/5nhFQy8NYagb0lfTVP3cSw
+RVINES		None	5	3.37		https://rateyourmusic.com/artist/rvines	None
+Ryan Cassata	Singer-Songwriter	24152	6	1.72	Los Angeles, CA, United States	https://rateyourmusic.com/artist/ryan-cassata	https://open.spotify.com/artist/0tFlCZaGI6bC1XxtfzIhmG
+Ryann Slauson		None	0	0.0		https://rateyourmusic.com/artist/ryann-slauson	None
+Sadie Switchblade		None	5	0.0	Olympia, WA, United States	https://rateyourmusic.com/artist/sadie-switchblade	None
+Sage Thrasher	Ambient, Drone, New Age	None	31	3.63	Columbus, OH, United States	https://rateyourmusic.com/artist/sage-thrasher	None
+Saint Wellesley	Folk Punk	2732	1	4.0		https://rateyourmusic.com/artist/saint-wellesley	https://open.spotify.com/artist/5sMNbIyT8Uzg51gx65UvH6
+Sajon	Vaportrap	24	14	3.52	Sankt Gallen, Sankt Gallen, Switzerland	https://rateyourmusic.com/artist/sajon	https://open.spotify.com/artist/0xF2YjPgc3alqIRUUH6GBe
+Saline	Alternative Rock	1	4	3.49	Brisbane, QLD, Australia	https://rateyourmusic.com/artist/saline	https://open.spotify.com/artist/3aud5Yqp6e84REqOOczNxh
+Sam Bettens	Pop Rock, Singer-Songwriter, Alternative Rock	None	81	3.14	Palm City, CA, United States	https://rateyourmusic.com/artist/sam-bettens	None
+Sam Rosenthal	Ambient, Electronic, Darkwave	412	74	3.09	Portland, OR, United States	https://rateyourmusic.com/artist/sam-rosenthal	https://open.spotify.com/artist/0D76GidXzJyteIsEvApOXv
+Sam Smith	Pop Soul, Contemporary R&B, Pop, Adult Contemporary, Electropop, Dance-Pop	23444886	1764	2.37	London, Greater London, United Kingdom	https://rateyourmusic.com/artist/sam-smith	https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI
+sandcastles.	Trap	48	2	2.5	SC, United States	https://rateyourmusic.com/artist/sandcastles_	https://open.spotify.com/artist/5Wg5VI0j7bRKPrTevdinxx
+Sanguinária	Black Metal	None	23	2.86		https://rateyourmusic.com/artist/sanguinaria-1	None
+Sankaku	Black Metal	172	106	3.35		https://rateyourmusic.com/artist/sankaku	https://open.spotify.com/artist/3nRMY1LXRPQrwpm2q7nXVd
+saoirse dream	Hyperpop, Digicore, Dariacore	6732	371	3.51	Portland, OR, United States	https://rateyourmusic.com/artist/saoirse-dream	https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf
+Sarah and the Safe Word	Alternative Rock, Dark Cabaret	20936	33	3.23		https://rateyourmusic.com/artist/sarah-and-the-safe-word	https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3
+Sarah Kirsch		None	1	0.0		https://rateyourmusic.com/artist/sarah-kirsch	None
+Sarah	Danish Pop	7123	1	2.13	Herlev, Hovedstaden, Denmark	https://rateyourmusic.com/artist/sarah_f4	https://open.spotify.com/artist/2ZBc25q5YEiXNxTzuOfYo2
+Sarah June	Singer-Songwriter, Contemporary Folk	224	79	3.29	San Francisco, CA, United States	https://rateyourmusic.com/artist/sarah_june	https://open.spotify.com/artist/3RIFTN8YxpKOHakzmXQEV5
+Sarchasm	Pop Punk	1708	13	3.62		https://rateyourmusic.com/artist/sarchasm	https://open.spotify.com/artist/7zVG8565LATGJCC8gacuFm
+Scandroid	Synthwave, Darksynth, Synthpop	103110	264	3.24	Los Angeles, CA, United States	https://rateyourmusic.com/artist/scandroid	https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ
+Schmekel	Queercore	6271	12	3.22		https://rateyourmusic.com/artist/schmekel	https://open.spotify.com/artist/2IrK3yjjp5jnpb3xBjTR4G
+Seal Eggs	Ambient	156	8	3.62	Colorado Springs, CO, United States	https://rateyourmusic.com/artist/seal-eggs	https://open.spotify.com/artist/3Er2PqOoxWn0vRzjlDAqZC
+Sebastian Thomas	Ambient, Musique concrète	None	18	3.64		https://rateyourmusic.com/artist/sebastian-thomas-1	None
+Secret Miracle	Punk	None	15	3.78		https://rateyourmusic.com/artist/secret-miracle-1	None
+SeeYouSpaceCowboy	Metalcore, Mathcore, Sasscore, Post-Hardcore	61798	2429	3.47		https://rateyourmusic.com/artist/seeyouspacecowboy	https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1
+Serene Ailment	Power Electronics, Drone	64	89	3.47		https://rateyourmusic.com/artist/serene-ailment	https://open.spotify.com/artist/2credM8GofFEjrs8VCKhoJ
+Serpent16	Electronic	103	1	3.17	London, Greater London, United Kingdom	https://rateyourmusic.com/artist/serpent16	https://open.spotify.com/artist/4j2Mu3FwawwsUwmluTczER
+séverine	Electronic	None	12	3.66	Los Angeles, CA, United States	https://rateyourmusic.com/artist/severine-2	None
+Sewerslvt	Atmospheric Drum and Bass, Electronic Dance Music, Drum and Bass, Hardcore [EDM], Breakcore, Trancestep	300574	9336	3.36	Sydney, NSW, Australia	https://rateyourmusic.com/artist/sewerslvt	https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU
+Sfire	Italo-Disco, Synthpop	6098	369	3.63		https://rateyourmusic.com/artist/sfire	https://open.spotify.com/artist/1DrfvAYR9EE93iN2z9mVKE
+Shawna Virago	Singer-Songwriter	571	2	0.0	San Francisco, CA, United States	https://rateyourmusic.com/artist/shawna-virago-1	https://open.spotify.com/artist/4PqXOsEQxIQtT0h60KSIUv
+She/Her/Hers	Queercore, Folk Punk, Pop Punk, Indie Rock	28589	186	3.27		https://rateyourmusic.com/artist/she_her_hers	https://open.spotify.com/artist/4VfY7XPH7M1nahvlNluxTg
+Sheikha		None	30	2.88	London, Greater London, United Kingdom	https://rateyourmusic.com/artist/sheikha	None
+Shoeb Ahmad	Ambient	426	29	3.17	Canberra, ACT, Australia	https://rateyourmusic.com/artist/shoeb-ahmad	https://open.spotify.com/artist/2h708ZTAjPlRu96CjKqAK7
+Shye	Ambient, Folktronica, Indietronica, Field Recordings, Glitch, Reductionism	304	602	3.33	Melbourne, VIC, Australia	https://rateyourmusic.com/artist/shye-1	https://open.spotify.com/artist/24PZMCQX3iX42cRQE185l6
+Sidney Phillips	PluggnB, Jazz Rap, Digicore, Hardcore Hip Hop, Abstract Hip Hop, Trap	1049	321	3.56	Brisbane, QLD, Australia	https://rateyourmusic.com/artist/sidney-phillips-1	https://open.spotify.com/artist/0S3fNZXYsaHufrQq3GsO2T
+Silas Howard		None	0	0.0	New York, NY, United States	https://rateyourmusic.com/artist/silas-howard	None
+Sillyteam	Digicore	None	22	3.1		https://rateyourmusic.com/artist/sillyteam	None
+Sir Babygirl	Electropop, Synthpop	15450	344	3.26	Hanover, NH, United States	https://rateyourmusic.com/artist/sir-babygirl	https://open.spotify.com/artist/3Z9b1MnVKbJw8LpgQclsls
+six impala	Electronic, Hyperpop, Electronic Dance Music, Bubblegum Bass, Sound Collage, Post-Industrial	19183	919	3.35	Toronto, ON, Canada	https://rateyourmusic.com/artist/six-impala	https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW
+Sky Between Spirits	Vaporwave, Ambient	None	9	3.14		https://rateyourmusic.com/artist/sky-between-spirits	None
+Skylar		None	1	3.0		https://rateyourmusic.com/artist/skylar-2	None
+SL!CE	Electronic	None	5	3.24	Chicago, IL, United States	https://rateyourmusic.com/artist/sl_ce	None
+Sleeping In	Ambient, Drone, Dark Ambient, Trap, Industrial Hip Hop, Instrumental Hip Hop	17	78	3.2		https://rateyourmusic.com/artist/sleeping-in-1	https://open.spotify.com/artist/1ANivtWXDG7UG002CrwocW
+Slimosine	IDM	143	7	2.33	Gulf Breeze, FL, United States	https://rateyourmusic.com/artist/slimosine	https://open.spotify.com/artist/4A1y8FwnHCK7lVHgnZB1mo
+smntha	Indie Rock	None	2	3.73	Boston, MA, United States	https://rateyourmusic.com/artist/smntha	None
+SNMT		4	1	2.5		https://rateyourmusic.com/artist/snmt	https://open.spotify.com/artist/5RycM2QOh1EtGE1Nfy8Ik8
+Snowing	Midwest Emo, Slacker Rock	30587	4451	3.55		https://rateyourmusic.com/artist/snowing	https://open.spotify.com/artist/7swQ7gmKDlIOsnl0bdnaXn
+Solace in the Shadows		None	2	2.5		https://rateyourmusic.com/artist/solace_in_the_shadows	None
+Solid ࿂ Air	Experimental	None	4	1.61		https://rateyourmusic.com/artist/solid-࿂-air	None
+Somasis	Ambient, Breakcore, Downtempo, Ambient Pop	229	101	3.55	Boone, NC, United States	https://rateyourmusic.com/artist/somasis	https://open.spotify.com/artist/3EVQDkPxiIrwRmZnBuvQcg
+sonhos tomam conta	Shoegaze, Emo, Dream Pop, Blackgaze, Screamo, Slowcore	11136	6975	3.47	São Paulo, São Paulo, Brazil	https://rateyourmusic.com/artist/sonhos-tomam-conta	https://open.spotify.com/artist/7rVsNgf4xbMJcVPNilWTnV
+Sonja	Heavy Metal	4392	347	3.55		https://rateyourmusic.com/artist/sonja-6	https://open.spotify.com/artist/0X41IVISCoYgYWT2PsfqoC
+Sonja Sajzor		48	2	3.4	Beograd, Beograd, Serbia	https://rateyourmusic.com/artist/sonja-sajzor	https://open.spotify.com/artist/3Xt0xsPwkPU4f9a6UnsOq7
+Sophiaaaahjkl;8901	IDM, Plunderphonics, Glitch, Footwork, Breakcore, Glitch Hop	9049	240	3.46	San Francisco, CA, United States	https://rateyourmusic.com/artist/sophiaaaahjkl_8901	https://open.spotify.com/artist/7otvnD5KZH9KfeMk62VqSj
+SOPHIE	Bubblegum Bass, Deconstructed Club, UK Bass, Wonky, Trap [EDM], Techno	445500	24033	3.78		https://rateyourmusic.com/artist/sophie-1	https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu
+Sophii	Progressive Metal, Sludge Metal, Deathcore	None	18	2.95		https://rateyourmusic.com/artist/sophii	None
+Sopor Aeternus & The Ensemble of Shadows	Neoclassical Darkwave, Darkwave, Neo-Medieval Folk, Gothic Rock, Neofolk, Dark Ambient	110519	1268	3.47		https://rateyourmusic.com/artist/sopor_aeternus_and_the_ensemble_of_shadows	https://open.spotify.com/artist/4DJ9mOfSKt9vg0Zhlwf6te
+Soreeyes	Black Metal	64	3	3.61		https://rateyourmusic.com/artist/soreeyes	https://open.spotify.com/artist/06Bq6BztZFwqBLcKx7RCcM
+Space Cadet	Indie Rock, Neo-Psychedelia, Psychedelic Pop, Experimental Rock, Post-Rock, Slacker Rock	335	148	3.24	Surrey, United Kingdom	https://rateyourmusic.com/artist/space-cadet	https://open.spotify.com/artist/6M7yoUEv8GIahe6U63RUNC
+St. Donovan	Electronic Dance Music	None	12	3.58		https://rateyourmusic.com/artist/st-donovan	None
+starbends	Ambient	8	2	0.0		https://rateyourmusic.com/artist/starbends	https://open.spotify.com/artist/6SiKAef5YjZiQwuyDp5VeQ
+Starhed	Indie Folk	49	21	3.75	Canton, MI, United States	https://rateyourmusic.com/artist/starhed	https://open.spotify.com/artist/2WrOFDAwrhj4pzqbIY9HK5
+Starmaxx	Art Pop	2394	6	3.04	Los Angeles, CA, United States	https://rateyourmusic.com/artist/starmaxx-1	https://open.spotify.com/artist/1ks5okJd9Z0hnv7fqhTzrC
+Status Ferret	Singer-Songwriter	87	1	0.0	Fredonia, NY, United States	https://rateyourmusic.com/artist/status-ferret	https://open.spotify.com/artist/2yfm2deI6oO589c81KAD85
+Steam Powered Giraffe	Indie Folk, Cabaret, Vaudeville, Indie Pop, Novelty	140753	199	2.74		https://rateyourmusic.com/artist/steam-powered-giraffe	https://open.spotify.com/artist/1yqs45BSh7457Flyhmdv7f
+Steph&lt;3	Folk Punk, Anti-Folk, Indietronica	None	46	3.06		https://rateyourmusic.com/artist/steph3	None
+STOMACH BOOK	Noise Pop, Emo, Experimental Rock, Indietronica, Post-Hardcore, Sasscore	13468	1655	3.71	South Bend, IN, United States	https://rateyourmusic.com/artist/stomach-book	https://open.spotify.com/artist/079cEjjSpv5dOLH5xsGdvN
+Strap On Brigade	Queercore, Grindcore	None	10	3.13		https://rateyourmusic.com/artist/strap_on_brigade	None
+Strawberry Hospital	Electronicore, Blackgaze, Electropop	10927	1768	3.48	Niederwald, TX, United States	https://rateyourmusic.com/artist/strawberry-hospital	https://open.spotify.com/artist/4e51kjdzES9uXXncU9VNgC
+Subterranean	Electronic Dance Music	None	3	3.3	Pittsburgh, PA, United States	https://rateyourmusic.com/artist/subterranean-1	None
+SuperKnova	Indie Rock, Electropop	16438	39	3.18	New York, NY, United States	https://rateyourmusic.com/artist/superknova	https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD
+Susurrate	Art Rock, Shoegaze, Art Pop, Experimental Hip Hop	144	37	2.94		https://rateyourmusic.com/artist/susurrate	https://open.spotify.com/artist/512CSPRFk2Q0IU4WvA6iVb
+Sylvia Baudelaire	Experimental Hip Hop, Trap	5339	19	3.07	Białystok, podlaskie, Poland	https://rateyourmusic.com/artist/sylvia-baudelaire	https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF
+Sylvir	Electronic Dance Music, Brostep, Drum and Bass, UK Bass	None	442	3.31	York, North Yorkshire, United Kingdom	https://rateyourmusic.com/artist/sylvir	None
+T. Thomason	Singer-Songwriter	3052	3	2.3	Toronto, ON, Canada	https://rateyourmusic.com/artist/t-thomason	https://open.spotify.com/artist/4qW3B9lAaefCiA5m5fUAZg
+Tamara Valmar	Pop	None	1	0.0	Melbourne, VIC, Australia	https://rateyourmusic.com/artist/tamara-valmar	None
+Tami T	Electropop	13667	301	3.39	Berlin, Berlin, Germany	https://rateyourmusic.com/artist/tami-t	https://open.spotify.com/artist/1rlC0qRy1Ndg2uAoFoFlyJ
+Tara Delong	Hip Hop	None	4	3.92	Ciudad de México, Ciudad de México, Mexico	https://rateyourmusic.com/artist/tara-delong	None
+Taylor Mulitz		None	0	0.0	Baltimore, MD, United States	https://rateyourmusic.com/artist/taylor-mulitz	None
+tchan	Ghettotech	5	32	3.25	Chicago, IL, United States	https://rateyourmusic.com/artist/tchan	https://open.spotify.com/artist/5ZY0FAiER4ffwvos9x3bhP
+Temp Sound Solutions & Alex Mauer		None	7	3.41		https://rateyourmusic.com/artist/temp_sound_solutions_and_alex_mauer	None
+Thammy Miranda	Pop	None	0	0.91		https://rateyourmusic.com/artist/thammy-miranda	None
+Thanas	Digicore	3045	10	3.68	Grenoble, Auvergne-Rhône-Alpes, France	https://rateyourmusic.com/artist/thanas	https://open.spotify.com/artist/2PJ7hY7IJP5OGAE7JoqAVJ
+The Bedroom Witch	Synthpop, Darkwave	499	29	3.37	Los Angeles, CA, United States	https://rateyourmusic.com/artist/the-bedroom-witch	https://open.spotify.com/artist/1dXb3jYkcgOB4KBbHHM17J
+The Candidates	Hip Hop	6	4	3.24		https://rateyourmusic.com/artist/the-candidates	https://open.spotify.com/artist/2mnoeoZ89l4ShwXDgEnhtl
+The Civil War in France	Screamo, Bedroom Pop, Midwest Emo	2995	211	3.26	Baltimore, MD, United States	https://rateyourmusic.com/artist/the-civil-war-in-france 	https://open.spotify.com/artist/4i7uuldEcP9pFhfyiZYy85
+The Cliks	Pop Rock, Pop Punk	6593	40	2.79		https://rateyourmusic.com/artist/the-cliks	https://open.spotify.com/artist/6a0bu1Ny5ju60p348R5jwc
+The Football Club	Folk Punk	None	10	3.05		https://rateyourmusic.com/artist/the-football-club	None
+The Hallowed Catharsis	Technical Death Metal	2198	17	2.86		https://rateyourmusic.com/artist/the-hallowed-catharsis	https://open.spotify.com/artist/412L6R430LcXu1H96ByzLo
+The HIRS Collective	Grindcore, Queercore, Powerviolence	14843	2338	3.49		https://rateyourmusic.com/artist/the-hirs-collective	https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl
+The Homobiles	Queercore	241	0	0.0	San Francisco, CA, United States	https://rateyourmusic.com/artist/the-homobiles	https://open.spotify.com/artist/10VBrwmT40NIascfqzSKzb
+The Hotelier	Emo, Midwest Emo, Pop Punk, Indie Rock, Emo-Pop	86456	6373	3.64	Worcester, MA, United States	https://rateyourmusic.com/artist/the-hotelier	https://open.spotify.com/artist/3kzNckjE5FzHQhe4pJiLKa
+The Oozes	Queercore, Alternative Rock	131459	59	3.03	United Kingdom	https://rateyourmusic.com/artist/the-oozes	https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF
+The Spook School	Indie Pop, Power Pop, Indie Rock, Queercore	12421	161	3.19		https://rateyourmusic.com/artist/the-spook-school	https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA
+The Truants	Post-Punk	None	2	0.0		https://rateyourmusic.com/artist/the-truants	None
+The Various Endeavors?	Synth Punk	None	3	1.7	Central City, KY, United States	https://rateyourmusic.com/artist/the-various-endeavors	None
+The Athens Boys Choir	Spoken Word	None	8	3.28		https://rateyourmusic.com/artist/the_athens_boys_choir	None
+The Bloods		565	49	3.46		https://rateyourmusic.com/artist/the_bloods	https://open.spotify.com/artist/10v4oZLNVmcXAC5C1N6WiB
+The Electric Chairs	Punk Rock, Glam Punk, Post-Punk	1195	318	3.4		https://rateyourmusic.com/artist/the_electric_chairs	https://open.spotify.com/artist/5NVXUAeZ3VRFDKqlaLeQ4A
+The Grave	Doom Metal, Traditional Doom Metal	None	26	3.66		https://rateyourmusic.com/artist/the_grave	None
+Them Are Us Too	Dream Pop, Ethereal Wave, Darkwave	18003	829	3.56		https://rateyourmusic.com/artist/them-are-us-too	https://open.spotify.com/artist/5momCJTdVuC4H9xHhYkaiK
+Thotcrime	Cybergrind, Sasscore, Mathcore, Metalcore	3239	402	3.39		https://rateyourmusic.com/artist/thotcrime	https://open.spotify.com/artist/1VUYbwXCTxDT7U9KCNTEnE
+Three Colors in Line	Hyperpop	9	1	0.0	Portland, OR, United States	https://rateyourmusic.com/artist/three-colors-in-line	https://open.spotify.com/artist/4lH61plHFuygsK4CgRqCf5
+Through Waves		160	1	3.62	Curitiba, Paraná, Brazil	https://rateyourmusic.com/artist/through_waves	https://open.spotify.com/artist/6xBv3d76MN0bPoTffgppPt
+Thus Love	Post-Punk Revival, Shoegaze	8887	109	3.42		https://rateyourmusic.com/artist/thus-love	https://open.spotify.com/artist/26hW7zYB4V3PGMPBKoBdgl
+Tica Douglas	Singer-Songwriter, Indie Pop	902	25	3.25	Brooklyn, NY, United States	https://rateyourmusic.com/artist/tica_douglas	https://open.spotify.com/artist/0I1zfCLOJPf4ZxpA7FH94h
+Titica	Kuduro, Kizomba	15251	40	3.08		https://rateyourmusic.com/artist/titica	https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s
+To Languish	Screamo	263	19	3.05		https://rateyourmusic.com/artist/to-languish	https://open.spotify.com/artist/5scpr5bf9e2noyVmaFdC0E
+Told Slant	Slowcore, Midwest Emo, Indie Folk, Singer-Songwriter, Slacker Rock	25830	464	3.24		https://rateyourmusic.com/artist/told-slant	https://open.spotify.com/artist/2LvmjTEfcfDrTWtwUKvdq3
+Tonya Song		19	1	0.0	Gallup, NM, United States	https://rateyourmusic.com/artist/tonya-song	https://open.spotify.com/artist/19U7usHZt0kz38M1LKQaMM
+Too Attached	Pop	724	5	2.38		https://rateyourmusic.com/artist/too-attached-1	https://open.spotify.com/artist/6tpCnZYpvujd9t6pVUbsI0
+Towards the Forest	Experimental	None	1	3.44	Toronto, ON, Canada	https://rateyourmusic.com/artist/towards-the-forest	None
+trans zimmer	Experimental	130	7	2.94	Philadelphia, PA, United States	https://rateyourmusic.com/artist/trans-zimmer	https://open.spotify.com/artist/43M0LFeIZ1bC8mO0P1vcyn
+Tribe 8	Queercore, Riot Grrrl, Punk Rock	10735	117	3.37		https://rateyourmusic.com/artist/tribe-8	https://open.spotify.com/artist/36XvuDzOGosIiNn9WC6snn
+Tricky Pixie	Folk Rock	None	5	2.5	Seattle, WA, United States	https://rateyourmusic.com/artist/tricky-pixie	None
+TRNSGNDR/VHS	Industrial, Vaporwave	None	38	3.18	Baltimore, MD, United States	https://rateyourmusic.com/artist/trnsgndr_vhs	None
+TRON MAXIMUM		None	7	3.68	Olympia, WA, United States	https://rateyourmusic.com/artist/tron_maximum	None
+TRUCK	Noise Rock	None	6	3.02	Portland, OR, United States	https://rateyourmusic.com/artist/truck-3	None
+Trust Fund Ozu	Hyperpop, Bubblegum Bass	2297	91	3.03	Asbury Park, NJ, United States	https://rateyourmusic.com/artist/trust-fund-ozu	https://open.spotify.com/artist/452FtOxoxIjhubfIx4Jxci
+twikipedia	Digicore, Trap, Pop Rap, Emo Rap, Experimental Hip Hop, Plugg	37089	1121	3.55	Rio de Janeiro, Brazil	https://rateyourmusic.com/artist/twikipedia	https://open.spotify.com/artist/2V8aJ7qCArKAmHAX7u81Sj
+Twinkle Park	Power Pop, Noise Pop, Indie Rock, Emo, Emo-Pop, Indie Pop, Indie Rock	7134	745	3.52	WA, United States	https://rateyourmusic.com/artist/twinkle-park	https://open.spotify.com/artist/33bNEm7Z4Un8RAhd3Obd7N
+twistCMYK	Atmospheric Drum and Bass, Breakbeat	None	18	1.9	TX, United States	https://rateyourmusic.com/artist/twistcmyk	None
+Two Steps on the Water	Indie Folk, Chamber Folk	1751	52	3.5		https://rateyourmusic.com/artist/two-steps-on-the-water	https://open.spotify.com/artist/2N44Nn14sJHE2rlw0fR4SQ
+Twompsax	Garage Punk, Punk Rock	4527	40	3.49	Oakland, CA, United States	https://rateyourmusic.com/artist/twompsax	https://open.spotify.com/artist/2TfGBEanVxRgedMa4PXuIo
+Uboa	Dark Ambient, Death Industrial, Harsh Noise, Sludge Metal, Darkwave, Atmospheric Sludge Metal	19453	6293	3.63	Melbourne, VIC, Australia	https://rateyourmusic.com/artist/uboa	https://open.spotify.com/artist/4ioovQ90tEAnJiQryAtkXl
+Umbilichaos	Sludge Metal, Drone Metal, Atmospheric Sludge Metal	240	25	3.01	Mairiporã, São Paulo, Brazil	https://rateyourmusic.com/artist/umbilichaos	https://open.spotify.com/artist/58d9TwxgKIsBx70fQFaQDs
+uncertain	Dark Ambient, Black Ambient, Black Noise, Drone, Ritual Ambient, Industrial	126	74	3.33	Buffalo, NY, United States	https://rateyourmusic.com/artist/uncertain	https://open.spotify.com/artist/6Dw1b122GWF3XvicDEeb8n
+underscores	Indietronica, Glitch Pop, Future Bass, Indie Rock, Hyperpop, Indie Pop	76392	7921	3.57	New York, NY, United States	https://rateyourmusic.com/artist/underscores	https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7
+valyri	Progressive Electronic, Electroacoustic, Ambient, Glitch, Glitch Pop, Experimental	323	422	3.41	Raleigh, NC, United States	https://rateyourmusic.com/artist/valyri	https://open.spotify.com/artist/4DFsZuHjDqoyeIWYKxCMgx
+Varien	Brostep, Electronic Dance Music, Midtempo Bass, Electro House, Symphonic Metal, Electronic	85990	236	3.09		https://rateyourmusic.com/artist/varien	https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7
+VCF Freq	Minimal Techno	None	16	2.79		https://rateyourmusic.com/artist/vcf-freq	None
+Vektroid	Chillwave, Vaporwave, Tape Music, Glitch, Drone, Progressive Electronic, Electronic, Ambient, Chillwave, Vaporwave	17407	1641	3.37	Portland, OR, United States	https://rateyourmusic.com/artist/vektroid	https://open.spotify.com/artist/0aHFAt3c3C648WXJP7GCRc
+Victory Over the Sun	Black Metal, Avant-Garde Metal, Progressive Metal, Sludge Metal, Post-Metal	2035	1170	3.41	Portland, OR, United States	https://rateyourmusic.com/artist/victory-over-the-sun	https://open.spotify.com/artist/2vG7QQCKvHo8pnhcseDtSD
+Vile Creature	Sludge Metal, Doom Metal	9598	586	3.39	Hamilton, ON, Canada	https://rateyourmusic.com/artist/vile-creature	https://open.spotify.com/artist/7Ab8HLYrBEa9uzNewNInR6
+Villano Antillano	Pop Rap, Reggaetón, Trap latino, Trap	166173	462	3.51		https://rateyourmusic.com/artist/villano-antillano	https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq
+Violent Pastels	Thrash Metal	None	8	3.31		https://rateyourmusic.com/artist/violent_pastels	None
+Virtual Intelligence	Electro-Industrial, Dark Electro	134	12	3.01	AZ, United States	https://rateyourmusic.com/artist/virtual-intelligence	https://open.spotify.com/artist/1teTf4iRrk2TP6P6cTyHPO
+Vivek Shraya		1928	7	3.54	Toronto, ON, Canada	https://rateyourmusic.com/artist/vivek_shraya	https://open.spotify.com/artist/0LBvYwhPCb8BxAqRi6ewNK
+Vivid Illusion	Post-Metal, Post-Rock	198	24	3.18	Boston, MA, United States	https://rateyourmusic.com/artist/vivid-illusion	https://open.spotify.com/artist/5oFGoQ7CoJ2PBPXrt9gqRN
+Vurdala'ka	Black Metal	None	2	2.7	Girona, Catalunya, Spain	https://rateyourmusic.com/artist/vurdalaka	None
+Vylet Pony	Electropop, Synthpop, Art Pop, Electronic Dance Music, Brostep, Alternative R&B	29443	2973	3.5	Portland, OR, United States	https://rateyourmusic.com/artist/vylet-pony	https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j
+Vyva Melinkolya	Shoegaze, Slowcore, Dream Pop, Ambient Pop	5165	998	3.44	Pittsburgh, PA, United States	https://rateyourmusic.com/artist/vyva-melinkolya	https://open.spotify.com/artist/4Xqfu74FUnmBMe9V13QTUX
+WangleLine	Ambient, Electronic, IDM, Electronic Dance Music, Deconstructed Club	1374	55	3.39		https://rateyourmusic.com/artist/wangleline	https://open.spotify.com/artist/0EgvUAinWl9a5SxqkdrWl5
+Waves Ablaze	Alternative Metal, Post-Rock	30	21	3.34	Grand Junction, CO, United States	https://rateyourmusic.com/artist/waves-ablaze	https://open.spotify.com/artist/5rwmNJxWcJRrteGSa11Y5Y
+We Arc Fire	Experimental	None	1	0.0	United States	https://rateyourmusic.com/artist/we-arc-fire	None
+We Are the Union	Ska Punk, Pop Punk, Skacore	23118	201	3.2		https://rateyourmusic.com/artist/we-are-the-union	https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs
+Weatherday	Slacker Rock, Noise Pop, Emo, Midwest Emo	68763	13578	3.7		https://rateyourmusic.com/artist/weatherday	https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK
+WeirdoOnTheBus System	Glitch, Ambient, Field Recordings	None	18	3.19	Chicago, IL, United States	https://rateyourmusic.com/artist/weirdoonthebus-system	None
+Wench	Deconstructed Club, Experimental Hip Hop, Glitch Hop, Epic Collage	None	285	3.59		https://rateyourmusic.com/artist/wench-1	None
+Wendy Carlos	Electronic, Moogsploitation, Baroque Music, Progressive Electronic, Film Score, Film Soundtrack	None	2930	3.61	New York, NY, United States	https://rateyourmusic.com/artist/wendy-carlos	None
+Wesley Tucker		2754	3	3.92	Los Angeles, CA, United States	https://rateyourmusic.com/artist/wesley-tucker	https://open.spotify.com/artist/6shpIB3ymIWJr3rWVsorKk
+White Mascara	Post-Punk	None	4	3.48	Portland, OR, United States	https://rateyourmusic.com/artist/white-mascara	None
+Wildebeest	Psychedelic Rock, Drone	4	2	0.0		https://rateyourmusic.com/artist/wildebeest_f2	https://open.spotify.com/artist/1MsnycFLW05oDXM9aMAZPr
+Winds of Genocide	Crust Punk, Death Metal, Stenchcore	288	42	3.25		https://rateyourmusic.com/artist/winds_of_genocide	https://open.spotify.com/artist/1xOqIpt0HXJ6EbLZwiq92D
+Winter Lantern	Atmospheric Black Metal, Black Metal	4356	93	3.23	Greensboro, NC, United States	https://rateyourmusic.com/artist/winter-lantern	https://open.spotify.com/artist/4HABZGNhhI6zD6tWl7yF4H
+Winter Sisters	Indie Folk, Avant-Folk	26	23	2.85	Canada	https://rateyourmusic.com/artist/winter-sisters	https://open.spotify.com/artist/42aW1Mwy1XnarfdGzDvh5r
+Witch of Izalith	Black Metal	None	2	3.0	MI, United States	https://rateyourmusic.com/artist/witch-of-izalith	None
+Wolf Circus	Indie Pop, Synthpop, Bedroom Pop, Slacker Rock, Power Pop	None	302	3.28		https://rateyourmusic.com/artist/wolf-circus	None
+Wolf Helvetica	Industrial	57	1	4.0		https://rateyourmusic.com/artist/wolf-helvetica	https://open.spotify.com/artist/4Fem34BEaUFwSHPRe9PzSl
+Wolven Daughter	Black Metal	None	10	2.52	Lexington, KY, United States	https://rateyourmusic.com/artist/wolven-daughter	None
+Worriers	Pop Punk, Indie Rock, Punk Rock, Power Pop, Singer-Songwriter	19042	191	3.38	Philadelphia, PA, United States	https://rateyourmusic.com/artist/worriers	https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD
+WOW OK	Electronic	789	25	3.58	United States	https://rateyourmusic.com/artist/wow-ok	https://open.spotify.com/artist/0GDsF5SXqyoGazKe2QaRBX
+Wrk Ethic	Hip Hop	None	25	3.42		https://rateyourmusic.com/artist/wrk-ethic	None
+xaev	Dariacore, Mashup, Complextro, Future Bass, Electronic Dance Music, Colour Bass	5890	1161	3.55	Sydney, NSW, Australia	https://rateyourmusic.com/artist/xaev	https://open.spotify.com/artist/10zsHcOcO047KmhOhi57iL
+XXX Maniak	Goregrind, Deathgrind	None	176	3.04		https://rateyourmusic.com/artist/xxx-maniak	None
+Yamari	Cloud Rap, Experimental Hip Hop, PluggnB, HexD	105	110	3.51		https://rateyourmusic.com/artist/yamari	https://open.spotify.com/artist/61LPq6IxcGRSW9ALWM3xoY
+Yesten's Legacy	Electronic Dance Music, Electronic, Drum and Bass, Nightcore, Sequencer & Tracker, Chiptune	26	35	3.06	Voisins-le-Bretonneux, Île-de-France, France	https://rateyourmusic.com/artist/yestens-legacy	https://open.spotify.com/artist/5PR8dvusJ08tUXmCGSf2Dq
+yeule	Ambient Pop, Synthpop, Dream Pop, Chillwave, Glitch Pop, Art Pop	168892	13667	3.67	Los Angeles, CA, United States	https://rateyourmusic.com/artist/yeule	https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X
+Ye†axa	Slacker Rock	None	3	2.58	United Kingdom	https://rateyourmusic.com/artist/ye†axa	None
+Your Heart Breaks	Indie Pop, Slacker Rock, Indie Folk, Avant-Folk	2322	111	3.51	Seattle, WA, United States	https://rateyourmusic.com/artist/your_heart_breaks	https://open.spotify.com/artist/1NBJbUP8o1MfB27jl84eeP
+Yves Tumor	Neo-Psychedelia, Art Rock, Hypnagogic Pop, Post-Punk, Ambient, Sound Collage	350155	23265	3.65	Los Angeles, CA, United States	https://rateyourmusic.com/artist/yves-tumor	https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS
+‡ black-stag’s-lament ‡	Experimental	None	5	3.39	Buffalo, NY, United States	https://rateyourmusic.com/artist/‡-black-stag’s-lament-‡	None
+∆K†I◯N †4	Witch House	None	3	2.68		https://rateyourmusic.com/artist/∆k†i◯n_†4	None
+✰Shukaara✰	Electronic	None	2	3.5	Mount Vernon, OH, United States	https://rateyourmusic.com/artist/✰shukaara✰	None
+佳館杏ノ助		None	1	2.5		https://rateyourmusic.com/artist/佳館杏ノ助	None
+莉犬		None	1	0.0		https://rateyourmusic.com/artist/莉犬	None
+青木志貴		None	8	3.51	Japan	https://rateyourmusic.com/artist/青木志貴	None

@@ -3,7 +3,7 @@ import base64
 from dotenv import load_dotenv
 from requests import post, get
 import json
-import util
+import string
 
 class Spotify():
     def __init__(self):
@@ -21,72 +21,63 @@ class Spotify():
 
         result = post(url, headers=headers, data=data)
         json_result = json.loads(result.content)
-
         self.token = json_result["access_token"]
         self.auth_header = {"Authorization": "Bearer " + self.token}
 
-    """ Returns the Spotify 'artist_id' for a particular artist. As there may be multiple artists with a 
-        particular 'artist_name', this method determines the correct artist by comparing their known 'works' (e.g.,
-        albums, singles, EPs) to the Spotify titles for each artist. """
-    def get_artist_id_from_name(self, artist_name, works):
-        url = "https://api.spotify.com/v1/search"
-        is_page_empty = False
-        increment = 0
-        while not is_page_empty and increment < 20: #while there are still results coming in, increment the page...
-            query = f"?q={artist_name}&type=artist&limit=50&offset=" + str(increment*50)
-            query_url = url + query
-            result = get(query_url, headers=self.auth_header)
-            json_result = json.loads(result.content)
-            for result in json_result["artists"]["items"]:
-                if (util.string_simplify(artist_name) == util.string_simplify(result["name"])):
-                    this_artist_works = self.get_artist_works(result["id"])
-                    do_works_overlap = len(set(util.strings_simplify(works)).intersection(set(util.strings_simplify(this_artist_works)))) > 0
-                    if (do_works_overlap): return result["id"]
-            increment += 1
-            if len(json_result["artists"]["items"]) == 0: is_page_empty = True;
-        return None
+    """ Simplifies a string by removing excess spaces, removing punctuating, and making lowercase. """
+    def string_simplify(self, s): return s.strip().translate(str.maketrans('', '', string.punctuation)).lower()
 
-    """ Returns the Spotify 'artist_id' for a particular artist. As there may be multiple artists with a 
-            particular 'artist_name', this method determines the correct artist by comparing their known 'works' (e.g.,
-            albums, singles, EPs) to the Spotify titles for each artist. """
+    """ Simplifies an array of strings by removing excess spaces, removing punctuating, and making lowercase."""
+    def strings_simplify(self, s):
+        if s == None: return None
+        return [self.string_simplify(unsimp) for unsimp in s]
 
-    def get_artist_id_from_url(self, spotify_url):
-        if 'https://open.spotify.com/artist/' in spotify_url: return spotify_url.split("/artist/")[1]
-        return None
-
-    """ Returns the artist genres given their Spotify 'artist_id'. """
-    def get_artist_genres(self, artist_id):
-        if artist_id == None: return None
+    def get_genres(self, artist_id):
         url = f"https://api.spotify.com/v1/artists/{artist_id}"
-        return json.loads(get(url, headers=self.auth_header).content)['genres']
+        result = get(url, headers=self.auth_header)
+        return json.loads(result.content)['genres']
 
     """ Returns the artist name given their Spotify 'artist_id'. """
-    def get_artist_name(self, artist_id):
-        if artist_id == None: return None
+    def get_name(self, artist_id):
         url = f"https://api.spotify.com/v1/artists/{artist_id}"
-        return json.loads(get(url, headers=self.auth_header).content)['name']
+        result = get(url, headers=self.auth_header)
+        return json.loads(result.content)['name']
 
     """ Returns the names of all works of an artist given their Spotify 'artist_id'. """
-    def get_artist_works(self, artist_id):
-        if artist_id == None: return None
-        albums = []
+    def get_works(self, artist_id):
         url = f"https://api.spotify.com/v1/artists/{artist_id}/albums"
-        json_result = json.loads(get(url, headers=self.auth_header).content)["items"]
-        for result in json_result: albums.append(util.string_simplify(result["name"]))
-        return albums
+        result = get(url, headers=self.auth_header)
+        json_result = json.loads(result.content)["items"]
+        return [self.string_simplify(result["name"]) for result in json_result]
 
     """ Returns the number of Spotify followers for a particular artist with Spotify 'artist_id'. """
     def get_spotify_followers(self, artist_id):
-        if artist_id == None: return None
         url = f"https://api.spotify.com/v1/artists/{artist_id}"
         result = get(url, headers=self.auth_header)
         json_result = json.loads(result.content)
         return json_result["followers"]["total"]
+    
+    def id_from_name(self, artist_name, works):
+        max_iters = 20
+        for i in range(max_iters):
+            query_url = "https://api.spotify.com/v1/search" + f"?q={artist_name}&type=artist&limit=50&offset=" + str(i*50)
+            result = get(query_url, headers=self.auth_header)
+            json_result = json.loads(result.content)
+            for result in json_result["artists"]["items"]:
+                if (self.string_simplify(artist_name) == self.string_simplify(result["name"])):
+                    this_artist_works = self.get_works(result["id"])
+                    do_works_overlap = len(set(self.strings_simplify(works)).intersection(set(self.strings_simplify(this_artist_works)))) > 0
+                    if (do_works_overlap): return result["id"]
+            if len(json_result["artists"]["items"]) == 0: return None
 
-    """ Returns the Spotify url for a particular artist with Spotify 'artist_id'. """
-    def get_spotify_url(self, artist_id):
+    def id_from_url(self, url):
+        if not 'spotify.com/artist/' in url: raise ValueError('You must specifya valid Spotify artist url.')
+        return url.split("/artist/")[1].split('?')[0]
+
+    def url_from_name(self, artist_name, works):
+        return self.url_from_id(self.id_from_name(artist_name, works))
+    
+    def url_from_id(self, artist_id):
         if artist_id == None: return None
-        url = f"https://api.spotify.com/v1/artists/{artist_id}"
-        result = get(url, headers=self.auth_header)
-        json_result = json.loads(result.content)
-        return json_result["external_urls"]["spotify"]
+        return f"https://open.spotify.com/artist/{artist_id}"
+    
