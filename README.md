@@ -9,3 +9,10 @@ The text file of RYM artist lists is given in 'artist_lists.txt' and includes a 
 as well as individual artist profiles I know or that others have shared with me. The text file 'artist_urls.txt' is the
 result of performing method (1) on 'artist_lists.txt'. The text file 'output.py' gives a succint summary of the information
 gathered from the internet.
+
+Note that in order to run the Spotify interface, you will need to create a '.env' file with the format
+
+  CLIENT_ID = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+  CLIENT_SECRET = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+where the CLIENT_ID and CLIENT_SECRET are obtained from creating an account with the Spotify API.
