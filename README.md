@@ -12,7 +12,7 @@ gathered from the internet.
 
 Note that in order to run the Spotify interface, you will need to create a '.env' file with the format
 
-  CLIENT_ID = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+  CLIENT_ID = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"  
   CLIENT_SECRET = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 where the CLIENT_ID and CLIENT_SECRET are obtained from creating an account with the Spotify API.
